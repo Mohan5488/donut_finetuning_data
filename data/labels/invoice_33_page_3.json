@@ -1,0 +1,91 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Comcast Business",
+      "invoiceNumber": "8396511750744055_250714",
+      "accountNumber": "8396511750744055",
+      "billDate": "14-07-2025",
+      "dueDate": "04-08-2025",
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 166.24,
+      "amountDue": null,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "Internet Services": [
+        {
+          "description": "Static IP - 5",
+          "service_id": null,
+          "amount": 34.95,
+          "from_date": "18-07-2025",
+          "to_date": "17-08-2025",
+          "quantity": 1,
+          "unit_price": 34.95,
+          "charge": 34.95,
+          "children": []
+        },
+        {
+          "description": "Business Internet Essential",
+          "service_id": null,
+          "amount": 99.95,
+          "from_date": "18-07-2025",
+          "to_date": "17-08-2025",
+          "quantity": 1,
+          "unit_price": 99.95,
+          "charge": 99.95,
+          "children": []
+        },
+        {
+          "description": "Equipment Fee",
+          "service_id": null,
+          "amount": 24.95,
+          "from_date": "18-07-2025",
+          "to_date": "17-08-2025",
+          "quantity": 1,
+          "unit_price": 24.95,
+          "charge": 24.95,
+          "children": []
+        }
+      ],
+      "Other Charges": [
+        {
+          "description": "Paper Statement Fee",
+          "service_id": null,
+          "amount": 3.95,
+          "from_date": "14-07-2025",
+          "to_date": "14-07-2025",
+          "quantity": 1,
+          "unit_price": 3.95,
+          "charge": 3.95,
+          "children": []
+        }
+      ],
+      "Taxes": [
+        {
+          "description": "Sales Tax",
+          "service_id": null,
+          "amount": 2.44,
+          "from_date": "14-07-2025",
+          "to_date": "14-07-2025",
+          "quantity": 1,
+          "unit_price": 2.44,
+          "charge": 2.44,
+          "children": []
+        }
+      ]
+    }
+  }
+  

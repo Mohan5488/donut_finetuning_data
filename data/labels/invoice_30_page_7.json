@@ -1,0 +1,44 @@
+
+{
+    "invoiceSummary": {
+      "vendorName": "C Spire",
+      "invoiceNumber": "0000685889-87",
+      "accountNumber": "0000685889",
+      "billDate": "14-07-2025",
+      "dueDate": "13-08-2025",
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 234.84,
+      "amountDue": null,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "service charges": [
+        {
+          "description": "20Mb DIA Sparks NV (Prorated)",
+          "service_id": "11038728",
+          "amount": 234.84,
+          "from_date": "15-07-2025",
+          "to_date": "28-07-2025",
+          "quantity": 1,
+          "unit_price": 234.84,
+          "charge": 234.84,
+          "children": []
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,76 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Rogers",
+      "invoiceNumber": "239178963909_250716",
+      "accountNumber": "239178963909",
+      "billDate": "16-07-2025",
+      "dueDate": "09-08-2025",
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 130.31,
+      "amountDue": null,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "Internet Services": [
+        {
+          "description": "Bus Grade Internet 500u",
+          "service_id": null,
+          "amount": 175.99,
+          "from_date": "13-07-2025",
+          "to_date": "12-08-2025",
+          "quantity": 1,
+          "unit_price": 175.99,
+          "charge": 175.99,
+          "children": []
+        },
+        {
+          "description": "Business Internet Offer Savings",
+          "service_id": null,
+          "amount": -71.00,
+          "from_date": "13-07-2025",
+          "to_date": "12-08-2025",
+          "quantity": 1,
+          "unit_price": -71.00,
+          "charge": -71.00,
+          "children": []
+        },
+        {
+          "description": "Legacy Modem Fee",
+          "service_id": null,
+          "amount": 10.00,
+          "from_date": "13-07-2025",
+          "to_date": "12-08-2025",
+          "quantity": 1,
+          "unit_price": 10.00,
+          "charge": 10.00,
+          "children": []
+        },
+        {
+          "description": "Legacy Modem Fee (Prorated 1 day)",
+          "service_id": null,
+          "amount": 0.33,
+          "from_date": "12-07-2025",
+          "to_date": "12-07-2025",
+          "quantity": 1,
+          "unit_price": 0.33,
+          "charge": 0.33,
+          "children": []
+        }
+      ]
+    }
+  }
+  

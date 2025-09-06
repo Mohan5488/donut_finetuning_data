@@ -1,0 +1,65 @@
+{
+    "invoiceSummary": {
+      "vendorName": "LocalTel",
+      "invoiceNumber": "57553_0725",
+      "accountNumber": "57553",
+      "billDate": "15-07-2025",
+      "dueDate": "12-08-2025",
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 70.95,
+      "amountDue": null,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "Location: 506 W Broadway Ave": [
+        {
+          "description": "GC Fiber Access Fee",
+          "service_id": "509GFIB212",
+          "amount": 2.00,
+          "from_date": "08-07-2025",
+          "to_date": "07-08-2025",
+          "quantity": 1,
+          "unit_price": 2.00,
+          "charge": 2.00,
+          "children": []
+        },
+        {
+          "description": "Premium Grant County PUD Support",
+          "service_id": "509GFIB212",
+          "amount": 13.00,
+          "from_date": "08-07-2025",
+          "to_date": "07-08-2025",
+          "quantity": 1,
+          "unit_price": 13.00,
+          "charge": 13.00,
+          "children": []
+        },
+        {
+          "description": "GC 100MB Fiber Internet Service Business (Includes Premium Internet Tech Support)",
+          "service_id": "509GFIB212",
+          "amount": 55.95,
+          "from_date": "08-07-2025",
+          "to_date": "07-08-2025",
+          "quantity": 1,
+          "unit_price": 55.95,
+          "charge": 55.95,
+          "children": []
+        }
+      ]
+    }
+  }
+  

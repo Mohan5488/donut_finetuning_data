@@ -1,0 +1,43 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Bluepeak",
+      "invoiceNumber": "062846101_250716",
+      "accountNumber": "062846101",
+      "billDate": "16-07-2025",
+      "dueDate": "09-08-2025",
+      "previousBalance": 0.0,
+      "payments": -103.00,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 100.00,
+      "amountDue": -3.00,
+      "remitToName": "Bluepeak",
+      "remitToAddress1": "PO BOX 5002",
+      "remitToAddress2": null,
+      "remitToCity": "Sioux Falls",
+      "remitToState": "SD",
+      "remitToZip": "57117-5002",
+      "billToName": "U-Haul Entity 957038",
+      "billToAddress": "17187 N Laurel Park Dr Ste 125",
+      "billToAddress2": "C/O Attn AMI Strategies",
+      "billToCity": "Livonia",
+      "billToState": "MI",
+      "billToZip": "481522600"
+    },
+    "InvoiceData": {
+      "Summary": [
+        {
+          "description": "Monthly Service Charges",
+          "service_id": null,
+          "amount": 100.00,
+          "from_date": "21-07-2025",
+          "to_date": "20-08-2025",
+          "quantity": 1,
+          "unit_price": 100.00,
+          "charge": 100.00,
+          "children": []
+        }
+      ]
+    }
+  }
+  

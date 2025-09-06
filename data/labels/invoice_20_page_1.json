@@ -1,0 +1,54 @@
+{
+    "invoiceSummary": {
+      "vendorName": "LocalTel",
+      "invoiceNumber": "57553_0725",
+      "accountNumber": "57553",
+      "billDate": "15-07-2025",
+      "dueDate": "12-08-2025",
+      "previousBalance": 137.90,
+      "payments": -137.90,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 137.90,
+      "amountDue": 137.90,
+      "remitToName": "LocalTel Communications",
+      "remitToAddress1": "343 Grant Road",
+      "remitToAddress2": null,
+      "remitToCity": "East Wenatchee",
+      "remitToState": "WA",
+      "remitToZip": "98802",
+      "billToName": "Evergreen Home Loans",
+      "billToAddress": "17187 N Laurel Park Drive Suite 125",
+      "billToAddress2": null,
+      "billToCity": "Livonia",
+      "billToState": "MI",
+      "billToZip": "48152"
+    },
+    "InvoiceData": {
+      "Summary of Account History": [
+        {
+          "description": "Services",
+          "service_id": null,
+          "amount": 137.90,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 137.90,
+          "charge": 137.90,
+          "children": []
+        },
+        {
+            "description": "Taxes & Fees",
+            "service_id": null,
+            "amount": 0.0,
+            "from_date": null,
+            "to_date": null,
+            "quantity": 0,
+            "unit_price":  0.0,
+            "charge": 0.0,
+            "children": []
+          }
+      ]
+    }
+  }
+  

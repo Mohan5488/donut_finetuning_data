@@ -1,0 +1,52 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Comporium",
+      "invoiceNumber": "41981041_250716",
+      "accountNumber": "41981041",
+      "billDate": "16-07-2025",
+      "dueDate": "06-08-2025",
+      "previousBalance": 38.82,
+      "payments": -38.82,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 38.70,
+      "amountDue": 38.70,
+      "remitToName": "Comporium",
+      "remitToAddress1": "P.O. BOX 1042",
+      "remitToAddress2": null,
+      "remitToCity": "ROCK HILL",
+      "remitToState": "SC",
+      "remitToZip": "29731-7042",
+      "billToName": "U-HAUL NEIGHBORHOOD DEALER MCO 783-004164",
+      "billToAddress": "17187 N LAUREL PARK DR 125",
+      "billToAddress2": null,
+      "billToCity": "LIVONIA",
+      "billToState": "MI",
+      "billToZip": "48152"
+    },
+    "InvoiceData": {
+        "Current Charges" : [
+            {
+                "description": "Local Telephone Charges",
+                "service_id": null,
+                "amount": 28.52,
+                "from_date": "16-07-2025",
+                "to_date": "15-08-2025",
+                "quantity": 1,
+                "unit_price":  28.52,
+                "charge":  28.52
+            },
+            {
+                "description": "Taxes and Surcharges",
+                "service_id": null,
+                "amount": 10.18,
+                "from_date": "16-07-2025",
+                "to_date": "15-08-2025",
+                "quantity": 1,
+                "unit_price":10.18,
+                "charge": 10.18
+            }
+        ]
+    }
+  }
+  

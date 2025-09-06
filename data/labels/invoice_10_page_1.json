@@ -1,0 +1,115 @@
+{
+  "invoiceSummary": {
+    "vendorName": "AT&T",
+    "invoiceNumber": "812284574907",
+    "accountNumber": "8122845749645",
+    "billDate": "04-07-2025",
+    "dueDate": "26-07-2025",
+    "previousBalance": 970.92,
+    "payments": -970.92,
+    "pastDue": 0.0,
+    "adjustments": 0.0,
+    "currentCharges": 485.43,
+    "amountDue": 485.43,
+    "remitToName": "AT&T",
+    "remitToAddress1": "PO BOX 5080",
+    "remitToAddress2": null,
+    "remitToCity": "CAROL STREAM",
+    "remitToState": "IL",
+    "remitToZip": "60197-5080",
+    "billToName": "AMERICAN SENIOR COMMUNITIES",
+    "billToAddress": "6900 GRAY RD",
+    "billToAddress2": null,
+    "billToCity": "INDIANAPOLIS",
+    "billToState": "IN",
+    "billToZip": "46237-3209"
+  },
+  "InvoiceData": {
+    "Monthly Service": [
+      {
+        "description": "Bus Local Calling Unlimited B",
+        "service_id": null,
+        "amount": 425.0,
+        "from_date": "04-07-2025",
+        "to_date": "03-08-2025",
+        "quantity": 1,
+        "unit_price": 425.0,
+        "charge": 425.0
+      },
+      {
+        "description": "Monthly Charges",
+        "service_id": null,
+        "amount": 6.5,
+        "from_date": "04-07-2025",
+        "to_date": "03-08-2025",
+        "quantity": 1,
+        "unit_price": 6.5,
+        "charge": 6.5
+      }
+    ],
+    "Company Fees and Surcharges": [
+      {
+        "description": "9-1-1 Emergency System (IN)",
+        "service_id": null,
+        "amount": 1.0,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 1,
+        "unit_price": 1.0,
+        "charge": 1.0
+      },
+      {
+        "description": "Federal Universal Service Fee",
+        "service_id": null,
+        "amount": 2.34,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 1,
+        "unit_price": 2.34,
+        "charge": 2.34
+      },
+      {
+        "description": "IN Universal Service Surcharge",
+        "service_id": null,
+        "amount": 7.35,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 1,
+        "unit_price": 7.35,
+        "charge": 7.35
+      },
+      {
+        "description": "Telecommunications Relay Service",
+        "service_id": null,
+        "amount": 0.02,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 1,
+        "unit_price": 0.02,
+        "charge": 0.02
+      },
+      {
+        "description": "Cost Assessment Charge",
+        "service_id": null,
+        "amount": 4.74,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 1,
+        "unit_price": 4.74,
+        "charge": 4.74
+      }
+    ],
+    "Government Fees and Taxes": [
+      {
+        "description": "Federal tax at 3%",
+        "service_id": null,
+        "amount": 13.17,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 1,
+        "unit_price": 13.17,
+        "charge": 13.17
+      }
+    ]
+  }
+}

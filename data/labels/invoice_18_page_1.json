@@ -1,0 +1,67 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Singtel",
+      "invoiceNumber": "48260182_0725",
+      "accountNumber": "48260182",
+      "billDate": "09-07-2025",
+      "dueDate": "08-08-2025",
+      "previousBalance": 1571.20,
+      "payments": 0.0,
+      "pastDue": 1571.20,
+      "adjustments": 0.0,
+      "currentCharges": 1600.00,
+      "amountDue": 3171.20,
+      "remitToName": "Singtel",
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "IX GATEWAY NO. 0000030816": [
+        {
+          "description": "Z GIAS Burstable 1Gbps Access (SNG) (500Mbps)",
+          "service_id": "0000030816",
+          "amount": 1600.00,
+          "from_date": "01-07-2025",
+          "to_date": "31-07-2025",
+          "quantity": 0,
+          "unit_price": 1600.00,
+          "charge": 1600.00,
+          "children": []
+        }
+      ],
+      "GST": [
+        {
+          "description": "Current Taxable Charges of SGD0.00 @ 9%",
+          "service_id": null,
+          "amount": 0.0,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 0.0,
+          "charge": 0.0,
+          "children": []
+        },
+        {
+          "description": "Zero Rated Charges of SGD1,600.00 @ 0%",
+          "service_id": null,
+          "amount": 0.0,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 0.0,
+          "charge": 0.0,
+          "children": []
+        }
+      ]
+    }
+  }
+  

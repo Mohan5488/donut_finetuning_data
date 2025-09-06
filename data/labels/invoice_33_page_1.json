@@ -1,0 +1,65 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Comcast Business",
+      "invoiceNumber": "8396511750744055_250714",
+      "accountNumber": "8396511750744055",
+      "billDate": "14-07-2025",
+      "dueDate": "04-08-2025",
+      "previousBalance": 166.24,
+      "payments": -166.24,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 166.24,
+      "amountDue": 166.24,
+      "remitToName": "Comcast",
+      "remitToAddress1": "PO BOX 71211",
+      "remitToAddress2": null,
+      "remitToCity": "Charlotte",
+      "remitToState": "NC",
+      "remitToZip": "28272-1211",
+      "billToName": "Trinity Broadcasting Network",
+      "billToAddress": "17187 N LAUREL PARK DR STE 125",
+      "billToAddress2": "ATTN: CHAZ LACEY",
+      "billToCity": "Livonia",
+      "billToState": "MI",
+      "billToZip": "48152-2600"
+    },
+    "InvoiceData": {
+      "Summary": [
+        {
+          "description": "Regular monthly charges",
+          "service_id": null,
+          "amount": 159.85,
+          "from_date": "18-07-2025",
+          "to_date": "17-08-2025",
+          "quantity": 1,
+          "unit_price": 159.85,
+          "charge": 159.85,
+          "children": []
+        },
+        {
+          "description": "One-time charges",
+          "service_id": null,
+          "amount": 3.95,
+          "from_date": "14-07-2025",
+          "to_date": "14-07-2025",
+          "quantity": 1,
+          "unit_price": 3.95,
+          "charge": 3.95,
+          "children": []
+        },
+        {
+          "description": "Taxes, fees and other charges",
+          "service_id": null,
+          "amount": 2.44,
+          "from_date": "14-07-2025",
+          "to_date": "14-07-2025",
+          "quantity": 1,
+          "unit_price": 2.44,
+          "charge": 2.44,
+          "children": []
+        }
+      ]
+    }
+  }
+  

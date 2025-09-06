@@ -1,0 +1,29 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Rogers",
+      "invoiceNumber": "239186318308_250615",
+      "accountNumber": "239186318308",
+      "billDate": "15-06-2025",
+      "dueDate": "08-07-2025",
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": null,
+      "amountDue": null,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {}
+  }
+  

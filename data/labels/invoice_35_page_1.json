@@ -1,0 +1,67 @@
+{
+    "invoiceSummary": {
+      "vendorName": "NumHub",
+      "invoiceNumber": "14432",
+      "accountNumber": "AUN39",
+      "billDate": "15-07-2025",
+      "dueDate": "30-07-2025",
+      "previousBalance": 225.39,
+      "payments": -189.68,
+      "pastDue": 35.71,
+      "adjustments": 0.0,
+      "currentCharges": 130.19,
+      "amountDue": 165.90,
+      "remitToName": "Porting.com dba NumHub",
+      "remitToAddress1": "PO Box 650823",
+      "remitToAddress2": "9450 SW Gemini Dr",
+      "remitToCity": "Beaverton",
+      "remitToState": "OR",
+      "remitToZip": "970087105",
+      "billToName": "Trinity Broadcasting Network",
+      "billToAddress": "17187 N Laurel Park Dr Ste 125",
+      "billToAddress2": "Attn: AMI Strategies",
+      "billToCity": "Livonia",
+      "billToState": "MI",
+      "billToZip": "48152"
+    },
+    "InvoiceData": {
+      "Payments": [
+        {
+          "description": "Payment Received",
+          "service_id": null,
+          "amount": -170.88,
+          "from_date": "05-06-2025",
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": -170.88,
+          "charge": -170.88,
+          "children": []
+        },
+        {
+          "description": "Payment Received",
+          "service_id": null,
+          "amount": -18.80,
+          "from_date": "05-06-2025",
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": -18.80,
+          "charge": -18.80,
+          "children": []
+        }
+      ],
+      "Non-recurring Charges" : [
+        {
+          "description": "Monthly Fee",
+          "service_id": null,
+          "amount": 114.49,
+          "from_date": "14-07-2025",
+          "to_date": "14-07-2025",
+          "quantity": 1,
+          "unit_price": 114.49,
+          "charge": 114.49,
+          "children": []
+        }
+      ]
+    }
+  }
+  

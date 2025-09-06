@@ -1,0 +1,41 @@
+{
+    "invoiceSummary": {
+      "vendorName": "TouchTone Communications",
+      "invoiceNumber": "3707179",
+      "accountNumber": "1100009742",
+      "billDate": "01-07-2025",
+      "dueDate": "25-07-2025",
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 54.35,
+      "amountDue": 54.35,
+      "remitToName": "TouchTone Communications",
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "Taxes and Surcharges Detail": [
+        { "description": "AR PUC FEE", "service_id": null, "amount": 0.14, "from_date": null, "to_date": null, "quantity": 1, "unit_price": 0.14, "charge": 0.14 },
+        { "description": "CITY SALES TAX", "service_id": null, "amount": 0.56, "from_date": null, "to_date": null, "quantity": 1, "unit_price": 0.56, "charge": 0.56 },
+        { "description": "COUNTY SALES TAX", "service_id": null, "amount": 0.42, "from_date": null, "to_date": null, "quantity": 1, "unit_price": 0.42, "charge": 0.42 },
+        { "description": "ECONOMIC ADJUSTMENT ASSESSMENT", "service_id": null, "amount": 1.14, "from_date": null, "to_date": null, "quantity": 1, "unit_price": 1.14, "charge": 1.14 },
+        { "description": "FEDERAL COST RECOVERY FEE", "service_id": null, "amount": 0.70, "from_date": null, "to_date": null, "quantity": 1, "unit_price": 0.70, "charge": 0.70 },
+        { "description": "FEDERAL UNIVERSAL SERVICE FUND", "service_id": null, "amount": 12.77, "from_date": null, "to_date": null, "quantity": 1, "unit_price": 12.77, "charge": 12.77 },
+        { "description": "PRESUBSCRIBED INTEREXCHANGE CARRIER CHARGE MONTHLY", "service_id": null, "amount": 34.86, "from_date": null, "to_date": null, "quantity": 1, "unit_price": 34.86, "charge": 34.86 },
+        { "description": "STATE SALES TAX", "service_id": null, "amount": 3.08, "from_date": null, "to_date": null, "quantity": 1, "unit_price": 3.08, "charge": 3.08 },
+        { "description": "TELECOM CONNECTIVITY FEE", "service_id": null, "amount": 0.68, "from_date": null, "to_date": null, "quantity": 1, "unit_price": 0.68, "charge": 0.68 }
+      ]
+    }
+  }
+  

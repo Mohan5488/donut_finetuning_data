@@ -1,0 +1,107 @@
+{
+  "invoiceSummary": {
+    "vendorName": "Optimum Business",
+    "invoiceNumber": "07801556172019_2507",
+    "accountNumber": "07801556172019",
+    "billDate": "01-07-2025",
+    "dueDate": "15-07-2025",
+    "previousBalance": 222.03,
+    "payments": -222.03,
+    "pastDue": 222.03,
+    "adjustments": -212.03,
+    "currentCharges": 210.95,
+    "amountDue": 232.53,
+    "remitToName": "Optimum",
+    "remitToAddress1": "PO BOX 70340",
+    "remitToAddress2": null,
+    "remitToCity": "PHILADELPHIA",
+    "remitToState": "PA",
+    "remitToZip": "19176-0340",
+    "billToName": "NYCB- 102 DUFFY AV",
+    "billToAddress": "102 DUFFY AV 4TH FL",
+    "billToAddress2": null,
+    "billToCity": "HICKSVILLE",
+    "billToState": "NY",
+    "billToZip": "11801"
+  },
+  "InvoiceData": {
+    "One Time Activity": [
+      {
+        "description": "Late Fee",
+        "service_id": null,
+        "amount": 10.0,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 10.0,
+        "children": []
+      },
+      {
+        "description": "Payment ADJ",
+        "service_id": null,
+        "amount": -222.03,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": -222.03,
+        "children": []
+      }
+    ],
+    "Current Monthly Charges": [
+      {
+        "description": "TV",
+        "service_id": null,
+        "amount": 210.95,
+        "from_date": "01-07-2025",
+        "to_date": "31-07-2025",
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 210.95,
+        "children": [
+          {
+            "description": "Value TV",
+            "service_id": null,
+            "amount": 145.0,
+            "from_date": "01-07-2025",
+            "to_date": "31-07-2025",
+            "quantity": 1,
+            "unit_price": 145.0,
+            "charge": 145.0
+          },
+          {
+            "description": "Additional Outlet",
+            "service_id": null,
+            "amount": 9.95,
+            "from_date": "01-07-2025",
+            "to_date": "31-07-2025",
+            "quantity": 1,
+            "unit_price": 9.95,
+            "charge": 9.95
+          },
+          {
+            "description": "4 Cable Box(es) with remotes",
+            "service_id": null,
+            "amount": 56.0,
+            "from_date": "01-07-2025",
+            "to_date": "31-07-2025",
+            "quantity": 4,
+            "unit_price": 14.0,
+            "charge": 56.0
+          },
+          {
+            "description": "TV Equipment",
+            "service_id": null,
+            "amount": 56.00,
+            "from_date": "01-07-2025",
+            "to_date": "31-07-2025",
+            "quantity": 1,
+            "unit_price": 56.00,
+            "charge": 56.00
+          }
+        ]
+      }
+    ]
+  }
+}

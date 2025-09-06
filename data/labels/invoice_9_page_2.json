@@ -1,0 +1,53 @@
+{
+  "invoiceSummary": {
+    "vendorName": "Vyve Broadband",
+    "invoiceNumber": null,
+    "accountNumber": "363529701",
+    "billDate": "16-07-2025",
+    "dueDate": "04-08-2025",
+    "previousBalance": null,
+    "payments": null,
+    "pastDue": null,
+    "adjustments": null,
+    "currentCharges": 109.95,
+    "amountDue": 109.95,
+    "remitToName": "Vyve Broadband",
+    "remitToAddress1": "PO Box 26588",
+    "remitToAddress2": null,
+    "remitToCity": "Oklahoma City",
+    "remitToState": "OK",
+    "remitToZip": "73126-0588",
+    "billToName": null,
+    "billToAddress": null,
+    "billToAddress2": null,
+    "billToCity": null,
+    "billToState":null,
+    "billToZip":null
+  },
+  "InvoiceData": {
+    "Vyve Internet": [
+      {
+        "description": "VYVE 105M COMMERCIAL",
+        "service_id": null,
+        "amount": 99.95,
+        "from_date": "15-07-2025",
+        "to_date": "14-08-2025",
+        "quantity": 1,
+        "unit_price": 99.95,
+        "charge": 99.95,
+        "children": []
+      },
+      {
+        "description": "COM HSD 300X30Mbps - SPEED UPGRADE",
+        "service_id": null,
+        "amount": 10.00,
+        "from_date": "15-07-2025",
+        "to_date": "14-08-2025",
+        "quantity": 1,
+        "unit_price": 10.00,
+        "charge": 10.00,
+        "children": []
+      }
+    ]
+  }
+}

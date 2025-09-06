@@ -1,0 +1,111 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Lightpath",
+      "invoiceNumber": "101523475",
+      "accountNumber": "104807",
+      "billDate": "01-07-2025",
+      "dueDate": "31-07-2025",
+      "previousBalance": null,
+      "payments": -847.20,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 847.20,
+      "amountDue": null,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "Services": [
+        {
+          "description": "Internet 50Mb Metro E",
+          "service_id": null,
+          "amount": 800.00,
+          "from_date": "01-07-2025",
+          "to_date": "31-07-2025",
+          "quantity": 2,
+          "unit_price": 400.00,
+          "charge": 800.00,
+          "children": []
+        },
+        {
+          "description": "Managed Router",
+          "service_id": null,
+          "amount": 35.00,
+          "from_date": "01-07-2025",
+          "to_date": "31-07-2025",
+          "quantity": 1,
+          "unit_price": 35.00,
+          "charge": 35.00,
+          "children": []
+        },
+        {
+          "description": "IPv4 30-2 Addresses",
+          "service_id": null,
+          "amount": 0.0,
+          "from_date": "01-07-2025",
+          "to_date": "31-07-2025",
+          "quantity": 1,
+          "unit_price": 0.0,
+          "charge": 0.0,
+          "children": []
+        },
+        {
+          "description": "IPv4 29-6 Addresses",
+          "service_id": null,
+          "amount": 0.0,
+          "from_date": "01-07-2025",
+          "to_date": "31-07-2025",
+          "quantity": 1,
+          "unit_price": 0.0,
+          "charge": 0.0,
+          "children": []
+        },
+        {
+          "description": "Paper Statement Fee",
+          "service_id": null,
+          "amount": 10.00,
+          "from_date": "30-06-2025",
+          "to_date": "30-06-2025",
+          "quantity": 1,
+          "unit_price": 10.00,
+          "charge": 10.00,
+          "children": []
+        }
+      ],
+      "Taxes and Surcharges": [
+        {
+          "description": "MTA Surcharges",
+          "service_id": null,
+          "amount": 0.56,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": 0.56,
+          "charge": 0.56,
+          "children": []
+        },
+        {
+          "description": "State and Local Gross Receipts Taxes",
+          "service_id": null,
+          "amount": 1.64,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": 1.64,
+          "charge": 1.64,
+          "children": []
+        }
+      ]
+    }
+  }
+  

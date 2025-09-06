@@ -1,0 +1,31 @@
+{
+    "invoiceSummary": {
+      "vendorName": "SaskTel",
+      "invoiceNumber": null,
+      "accountNumber": "97252256",
+      "billDate": "16-06-2025",
+      "dueDate": null,
+      "previousBalance": 87.11,
+      "payments": -87.11,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 44.33,
+      "amountDue": 44.33,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": "U-HAUL AMI Strategies (T) 058197",
+      "billToAddress": "17187 N Laurel Park Dr",
+      "billToAddress2": null,
+      "billToCity": "Livonia",
+      "billToState": "MI",
+      "billToZip": "48152"
+    },
+    "InvoiceData": {
+      "Notices": []
+    }
+  }
+  

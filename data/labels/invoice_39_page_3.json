@@ -1,0 +1,43 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Bell MTS",
+      "invoiceNumber": "X015554689250713",
+      "accountNumber": "34952549",
+      "billDate": "13-07-2025",
+      "dueDate": "01-08-2025",
+      "previousBalance": null,
+      "payments": -100.18,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": null,
+      "amountDue": null,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "Payments": [
+        {
+          "description": "Payment received 07-10-2025",
+          "service_id": null,
+          "amount": -100.18,
+          "from_date": "10-07-2025",
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": -100.18,
+          "charge": -100.18,
+          "children": []
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,29 @@
+{
+    "invoiceSummary": {
+      "vendorName": "AT&T",
+      "invoiceNumber": "512A310045833_0725",
+      "accountNumber": "512A3100458337",
+      "billDate": "11-07-2025",
+      "dueDate": "04-08-2025",
+      "previousBalance": 14213.23,
+      "payments": -7057.12,
+      "pastDue": 7156.11,
+      "adjustments": 0.0,
+      "currentCharges": 6827.09,
+      "amountDue": 13983.20,
+      "remitToName": "AT&T",
+      "remitToAddress1": "PO BOX 5001",
+      "remitToAddress2": null,
+      "remitToCity": "CAROL STREAM",
+      "remitToState": "IL",
+      "remitToZip": "601975001",
+      "billToName": "CITY OF HILLSBORO",
+      "billToAddress": "PO BOX 568",
+      "billToAddress2": null,
+      "billToCity": "HILLSBORO",
+      "billToState": "TX",
+      "billToZip": "766450568"
+    },
+    "InvoiceData": {}
+}
+  

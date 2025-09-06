@@ -1,0 +1,71 @@
+{
+    "invoiceSummary": {
+        "vendorName": "Lightcurve",
+        "invoiceNumber": "652017210_2507",
+        "accountNumber": "652017210",
+        "billDate": "16-07-2025",
+        "dueDate": "01-08-2025",
+        "previousBalance": 39.35,
+        "payments": 39.35,
+        "pastDue": 0,
+        "adjustments": 0,
+        "currentCharges": 39.35,
+        "amountDue": 39.35,
+        "remitToName": "Lightcurve",
+        "remitToAddress1": "PO BOX 34540",
+        "remitToAddress2": null,
+        "remitToCity": "SEATTLE",
+        "remitToState": "WA",
+        "remitToZip": "98124-1540",
+        "billToName": "AM STRATEGIES",
+        "billToAddress": "17187 N LAUREL PARK DR STE 125",
+        "billToAddress2": null,
+        "billToCity": "LIVONIA",
+        "billToState": "MI",
+        "billToZip": "48152-2600"
+    },
+    "InvoiceData": {
+        "U-HAUL MCO:920": [
+        {
+            "service_id": "920",
+            "description": "Current Billing Amount for U-HAUL MCO:920",
+            "amount": 39.35,
+            "from_date": null,
+            "to_date": null,
+            "quantity": 0,
+            "unit_price": 1,
+            "charge": 39.35,
+            "children": [
+            {
+                "monthly service" : {
+                    "description": "BASIC TELEPHONE",
+                    "amount": 28.15,
+                    "from_date": null,
+                    "to_date": null,
+                    "quantity": 1,
+                    "unit_price": 1,
+                    "charge": 28.15
+                }
+            },
+            {
+                "description": "NON-BASIC TELEPHONE",
+                "amount": 3.52,
+                "from_date": null,
+                "to_date": null,
+                "quantity": 1,
+                "unit_price": 1,
+                "charge": 3.52
+            },
+            {
+                "description": "OTHER",
+                "amount": 7.68,
+                "from_date": null,
+                "to_date": null,
+                "quantity": 1,
+                "unit_price": 1,
+                "charge": 7.68
+            }
+            ]
+        }]
+    }
+}

@@ -1,0 +1,42 @@
+{
+  "invoiceSummary": {
+    "vendorName": "GoNetspeed",
+    "invoiceNumber": null,
+    "accountNumber": "325661",
+    "billDate": null,
+    "dueDate": "09-08-2025",
+    "previousBalance": null,
+    "payments": null,
+    "pastDue": null,
+    "adjustments": null,
+    "currentCharges": 87.26,
+    "amountDue": 87.26,
+    "remitToName": null,
+    "remitToAddress1": null,
+    "remitToAddress2": null,
+    "remitToCity": null,
+    "remitToState": null,
+    "remitToZip": null,
+    "billToName": "AMERICAN RED CROSS MID COAST",
+    "billToAddress": null,
+    "billToAddress2": null,
+    "billToCity": null,
+    "billToState": null,
+    "billToZip": null
+  },
+  "InvoiceData": {
+    "Line Summary": [
+      {
+        "description": "207/373-9464",
+        "service_id": "2073739464",
+        "amount": 87.26,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": 87.26,
+        "charge": 87.26,
+        "children": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "invoiceSummary": {
+    "vendorName": "Optimum Business",
+    "invoiceNumber": null,
+    "accountNumber": "07801480765013",
+    "billDate": null,
+    "dueDate": "15-07-2025",
+    "previousBalance": null,
+    "payments": null,
+    "pastDue": null,
+    "adjustments": null,
+    "currentCharges": null,
+    "amountDue": 165.0,
+    "remitToName": "Optimum",
+    "remitToAddress1": "PO BOX 70340",
+    "remitToAddress2": null,
+    "remitToCity": "PHILADELPHIA",
+    "remitToState": "PA",
+    "remitToZip": "19176-0340",
+    "billToName": "ROSLYNSA VINGS BANK",
+    "billToAddress": "1400 OLD NORTHERN BL",
+    "billToAddress2": null,
+    "billToCity": "ROSLYN",
+    "billToState": "NY",
+    "billToZip": "11576-2251"
+  },
+  "InvoiceData": {
+    "Remittance Stub": [
+      {
+        "description": "Payment stub",
+        "service_id": null,
+        "amount": 165.0,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 165.0,
+        "children": []
+      }
+    ]
+  }
+}

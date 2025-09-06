@@ -1,0 +1,78 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Optimum Business",
+      "invoiceNumber": "07848101234018_250716",
+      "accountNumber": "07848101234018",
+      "billDate": "16-07-2025",
+      "dueDate": "30-07-2025",
+      "previousBalance": 207.31,
+      "payments": 0.0,
+      "pastDue": 207.31,
+      "adjustments": 0.0,
+      "currentCharges": 207.31,
+      "amountDue": 414.62,
+      "remitToName": "Optimum",
+      "remitToAddress1": "PO BOX 70340",
+      "remitToAddress2": null,
+      "remitToCity": "Philadelphia",
+      "remitToState": "PA",
+      "remitToZip": "191760340",
+      "billToName": "Signature Bank",
+      "billToAddress": "AMI strategies suite 125",
+      "billToAddress2": "17187 N Laurel Park DR",
+      "billToCity": "Livonia",
+      "billToState": "MI",
+      "billToZip": "481523940"
+    },
+    "InvoiceData": {
+      "TV Services": [
+        {
+          "description": "Preferred TV",
+          "service_id": null,
+          "amount": 160.00,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 1,
+          "unit_price": 160.00,
+          "charge": 160.00,
+          "children": []
+        },
+        {
+          "description": "Additional Outlet",
+          "service_id": null,
+          "amount": 9.95,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 1,
+          "unit_price": 9.95,
+          "charge": 9.95,
+          "children": []
+        },
+        {
+          "description": "2 Cable Box(es) with remotes",
+          "service_id": null,
+          "amount": 28.00,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 2,
+          "unit_price": 14.00,
+          "charge": 28.00,
+          "children": []
+        }
+      ],
+      "Taxes, Fees & Other Charges": [
+        {
+          "description": "Taxes and Other Fees",
+          "service_id": null,
+          "amount": 9.36,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 0,
+          "unit_price": 9.36,
+          "charge": 9.36,
+          "children": []
+        }
+      ]
+    }
+  }
+  

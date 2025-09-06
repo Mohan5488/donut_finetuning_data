@@ -1,0 +1,98 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Globalstar",
+      "invoiceNumber": "000000094981735",
+      "accountNumber": "AC00541553",
+      "billDate": "16-07-2025",
+      "dueDate": "27-07-2025",
+      "previousBalance": 554.62,
+      "payments": -554.62,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 449.94,
+      "amountDue": 553.55,
+      "remitToName": "Globalstar",
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState":null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "Contract Charges Detail": [
+        {
+          "description": "Unlimited_Free_Phone_Monthly (MDN: 12543814445)",
+          "service_id": "12543814445",
+          "amount": 74.99,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 0,
+          "unit_price": 74.99,
+          "charge": 74.99,
+          "children": []
+        },
+        {
+          "description": "Unlimited_Free_Phone_Monthly (MDN: 18632032292)",
+          "service_id": "18632032292",
+          "amount": 74.99,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 0,
+          "unit_price": 74.99,
+          "charge": 74.99,
+          "children": []
+        },
+        {
+          "description": "Unlimited_Free_Phone_Monthly (MDN: 18632032451)",
+          "service_id": "18632032451",
+          "amount": 74.99,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 0,
+          "unit_price": 74.99,
+          "charge": 74.99,
+          "children": []
+        },
+        {
+          "description": "Unlimited_Free_Phone_Monthly (MDN: 18632032574)",
+          "service_id": "18632032574",
+          "amount": 74.99,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 0,
+          "unit_price": 74.99,
+          "charge": 74.99,
+          "children": []
+        },
+        {
+          "description": "Unlimited_Free_Phone_Monthly (MDN: 18632032686)",
+          "service_id": "18632032686",
+          "amount": 74.99,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 0,
+          "unit_price": 74.99,
+          "charge": 74.99,
+          "children": []
+        },
+        {
+          "description": "Unlimited_Free_Phone_Monthly (MDN: 19079281439)",
+          "service_id": "19079281439",
+          "amount": 74.99,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 0,
+          "unit_price": 74.99,
+          "charge": 74.99,
+          "children": []
+        }
+      ]
+    }
+  }
+  

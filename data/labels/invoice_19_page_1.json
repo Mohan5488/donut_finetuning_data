@@ -1,0 +1,54 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Singtel",
+      "invoiceNumber": "62357642_0725",
+      "accountNumber": "62357642",
+      "billDate": "09-07-2025",
+      "dueDate": "08-08-2025",
+      "previousBalance": 12797.58,
+      "payments": 0.0,
+      "pastDue": 12797.58,
+      "adjustments": 0.0,
+      "currentCharges": 4265.86,
+      "amountDue": 17063.44,
+      "remitToName": "Singtel",
+      "remitToAddress1": "Singapore Post Centre",
+      "remitToAddress2": "10 Eunos Road 8 #07-31",
+      "remitToCity": "Singapore",
+      "remitToState": null,
+      "remitToZip": "408600",
+      "billToName": "ILAND CLOUD PTE. LTD.",
+      "billToAddress": "9 Raffles Place #26-01 Republic Plaza",
+      "billToAddress2": null,
+      "billToCity": "Singapore",
+      "billToState": null,
+      "billToZip": "048619"
+    },
+    "InvoiceData": {
+      "Summary": [
+        {
+          "description": "Balance Brought Forward",
+          "service_id": null,
+          "amount": 12797.58,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 12797.58,
+          "children": []
+        },
+        {
+          "description": "Current Charges",
+          "service_id": null,
+          "amount": 4265.86,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 4265.86,
+          "children": []
+        }
+      ]
+    }
+  }
+  

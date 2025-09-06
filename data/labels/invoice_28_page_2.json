@@ -1,0 +1,43 @@
+{
+    "invoiceSummary": {
+      "vendorName": "TouchTone Communications",
+      "invoiceNumber": "3707179",
+      "accountNumber": "1100009742",
+      "billDate": "01-07-2025",
+      "dueDate": "25-07-2025",
+      "previousBalance": null,
+      "payments": -171.28,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": null,
+      "amountDue": null,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "Payments": [
+        {
+          "description": "Payment Received 06/20/2025",
+          "service_id": null,
+          "amount": -171.28,
+          "from_date": "20-06-2025",
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": -171.28,
+          "charge": -171.28,
+          "children": []
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,64 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Lightcurve",
+      "invoiceNumber": "652016985_250716",
+      "accountNumber": "652016985",
+      "billDate": "16-07-2025",
+      "dueDate": "01-08-2025",
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 30.05,
+      "amountDue": null,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "(360)894-1160 Basic Telephone": [
+        {
+          "description": "Access Line - Remote Call Forward",
+          "service_id": "3608941160",
+          "amount": 24.00,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 1,
+          "unit_price": 24.00,
+          "charge": 24.00,
+          "children": [
+            { "description": "Federal Tax", "service_id": null, "amount": 0.72, "from_date": null, "to_date": null, "quantity": 1, "unit_price": 0.72, "charge": 0.72 },
+            { "description": "State Tax", "service_id": null, "amount": 1.56, "from_date": null, "to_date": null, "quantity": 1, "unit_price": 1.56, "charge": 1.56 },
+            { "description": "Thurston County Tax", "service_id": null, "amount": 0.43, "from_date": null, "to_date": null, "quantity": 1, "unit_price": 0.43, "charge": 0.43 }
+          ]
+        }
+      ],
+      "(360)894-1160 Non-Basic Telephone": [
+        {
+          "description": "Call Forward - Fixed",
+          "service_id": "3608941160",
+          "amount": 3.00,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 1,
+          "unit_price": 3.00,
+          "charge": 3.00,
+          "children": [
+            { "description": "Federal Tax", "service_id": null, "amount": 0.09, "from_date": null, "to_date": null, "quantity": 1, "unit_price": 0.09, "charge": 0.09 },
+            { "description": "State Tax", "service_id": null, "amount": 0.20, "from_date": null, "to_date": null, "quantity": 1, "unit_price": 0.20, "charge": 0.20 },
+            { "description": "Thurston County Tax", "service_id": null, "amount": 0.05, "from_date": null, "to_date": null, "quantity": 1, "unit_price": 0.05, "charge": 0.05 }
+          ]
+        }
+      ]
+    }
+  }
+  

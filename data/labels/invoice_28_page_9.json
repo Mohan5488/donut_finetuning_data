@@ -1,0 +1,43 @@
+{
+    "invoiceSummary": {
+      "vendorName": "TouchTone Communications",
+      "invoiceNumber": "3707179",
+      "accountNumber": "1100009742",
+      "billDate": "01-07-2025",
+      "dueDate": "25-07-2025",
+      "previousBalance": 0.0,
+      "payments": 0.0,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 23.30,
+      "amountDue": 23.30,
+      "remitToName": "TouchTone Communications",
+      "remitToAddress1": "P.O. BOX 780593",
+      "remitToAddress2": null,
+      "remitToCity": "Philadelphia",
+      "remitToState": "PA",
+      "remitToZip": "191780593",
+      "billToName": "WHITEHALL",
+      "billToAddress": "11001 Executive Center Dr Ste 200",
+      "billToAddress2": null,
+      "billToCity": "LITTLE ROCK",
+      "billToState": "AR",
+      "billToZip": "72211-4393"
+    },
+    "InvoiceData": {
+      "Taxes and Surcharges": [
+        {
+          "description": "Total Taxes & Surcharges",
+          "service_id": null,
+          "amount": 23.30,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 23.30,
+          "charge": 23.30,
+          "children": []
+        }
+      ]
+    }
+  }
+  

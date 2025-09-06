@@ -1,0 +1,76 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Astound",
+      "invoiceNumber": "0316821010011631",
+      "accountNumber": "3201031682101",
+      "billDate": "17-07-2025",
+      "dueDate": "06-08-2025",
+      "previousBalance": 285.62,
+      "payments": -288.62,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 287.62,
+      "amountDue": 284.62,
+      "remitToName": "Wave",
+      "remitToAddress1": "PO BOX 31001-2714",
+      "remitToAddress2": null,
+      "remitToCity": "Pasadena",
+      "remitToState": "CA",
+      "remitToZip": "911102714",
+      "billToName": "Evergreen Home Loans",
+      "billToAddress": "C/O AMI STARTEGOES",
+      "billToAddress2": "17187 N Laurel Park Dr Apt 125",
+      "billToCity": "Livonia",
+      "billToState": "MI",
+      "billToZip": "481522600"
+    },
+    "InvoiceData": {
+      "Current Charges": [
+        {
+          "description": "High Speed Internet",
+          "service_id": null,
+          "amount": 209.90,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 209.90,
+          "charge": 209.90,
+          "children": []
+        },
+        {
+          "description": "Digital Phone",
+          "service_id": null,
+          "amount": 29.85,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 29.85,
+          "charge": 29.85,
+          "children": []
+        },
+        {
+          "description": "One-Time Charges",
+          "service_id": null,
+          "amount": 1.00,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 1.00,
+          "charge": 1.00,
+          "children": []
+        },
+        {
+          "description": "Taxes, Surcharges & Fees",
+          "service_id": null,
+          "amount": 46.87,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 46.87,
+          "charge": 46.87,
+          "children": []
+        }
+      ]
+    }
+  }
+  

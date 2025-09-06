@@ -1,0 +1,55 @@
+{
+  "invoiceSummary": {
+    "vendorName": "Solarus",
+    "invoiceNumber": "31777701",
+    "accountNumber": "000884622",
+    "billDate": "16-06-2025",
+    "dueDate": "27-06-2025",
+    "previousBalance": 0.0,
+    "payments": 16.61,
+    "pastDue": 0.0,
+    "adjustments": 5.0,
+    "currentCharges": 16.61,
+    "amountDue": 21.61,
+    "remitToName": "Solarus",
+    "remitToAddress1": "PO BOX 860863",
+    "remitToAddress2": null,
+    "remitToCity": "MINNEAPOLIS",
+    "remitToState": "MN",
+    "remitToZip": "55486-0863",
+    "billToName": "U-HAUL NEIGHBORHOOD DEALER",
+    "billToAddress": "17187 N LAUREL PARK DR STE 125",
+    "billToAddress2": "STORE # 041444",
+    "billToCity": "LIVONIA",
+    "billToState": "MI",
+    "billToZip": "48152-2600"
+  },
+  "InvoiceData": {
+    "Account Charges": [
+      {
+        "description": "Late Fee",
+        "service_id": null,
+        "amount": 5.0,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 5.0,
+        "children": []
+      }
+    ],
+    "Service Summary": [
+      {
+        "description": "Business Remote Call Forward",
+        "service_id": "715-421-5843",
+        "amount": 16.61,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 16.61,
+        "children": []
+      }
+    ]
+  }
+}

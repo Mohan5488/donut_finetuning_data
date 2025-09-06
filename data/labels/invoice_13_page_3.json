@@ -1,0 +1,78 @@
+{
+    "invoiceSummary": {
+      "vendorName": "FARMERS TELECOMMUNICATIONS CORPORATION",
+      "invoiceNumber": null,
+      "accountNumber": "4916200",
+      "billDate": null,
+      "dueDate": "05-08-2025",
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 939.04,
+      "amountDue": 3778.43,
+      "remitToName": "FARMERS TELECOMMUNICATIONS CORPORATION",
+      "remitToAddress1": "P.O. BOX 71287",
+      "remitToAddress2": null,
+      "remitToCity": "CHARLOTTE",
+      "remitToState": "NC",
+      "remitToZip": "28272-1287",
+      "billToName": "BOAZ CITY OF",
+      "billToAddress": "PO BOX 537",
+      "billToAddress2": null,
+      "billToCity": "BOAZ",
+      "billToState": "AL",
+      "billToZip": "35957-0537"
+    },
+    "InvoiceData": {
+      "FTC Voice": [
+        {
+          "description": "VIRTUAL CONNECT SIP LINE",
+          "service_id": "2565939537",
+          "amount": 696.00,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 24,
+          "unit_price": 29.00,
+          "charge": 696.00,
+          "children": []
+        },
+        {
+          "description": "VIRTUAL CONNECT NUMBER BLOCK (11-50)",
+          "service_id": "2565939537",
+          "amount": 20.00,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 1,
+          "unit_price": 20.00,
+          "charge": 20.00,
+          "children": []
+        }
+      ],
+      "Taxes & Fees": [
+        {
+          "description": "E-911 SERVICE CHARGE",
+          "service_id": "2565939537",
+          "amount": 55.75,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 25,
+          "unit_price": 2.23,
+          "charge": 55.75,
+          "children": []
+        },
+        {
+          "description": "Federal Universal Service",
+          "service_id": "2565939537",
+          "amount": 167.29,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 1,
+          "unit_price": 167.29,
+          "charge": 167.29,
+          "children": []
+        }
+      ]
+    }
+  }
+  

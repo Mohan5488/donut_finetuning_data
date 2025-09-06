@@ -1,0 +1,54 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Lightcurve",
+      "invoiceNumber": "652016985_250716",
+      "accountNumber": "652016985",
+      "billDate": "16-07-2025",
+      "dueDate": "01-08-2025",
+      "previousBalance": 30.05,
+      "payments": -30.05,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 30.05,
+      "amountDue": 30.05,
+      "remitToName": "Lightcurve",
+      "remitToAddress1": "PO Box 34540",
+      "remitToAddress2": null,
+      "remitToCity": "Seattle",
+      "remitToState": "WA",
+      "remitToZip": "98124-1540",
+      "billToName": "U-Haul MCO 920",
+      "billToAddress": "17187 N Laurel Park Dr Ste 125",
+      "billToAddress2": "Attn: AMI Strategies",
+      "billToCity": "Livonia",
+      "billToState": "MI",
+      "billToZip": "481522600"
+    },
+    "InvoiceData": {
+      "Summary": [
+        {
+          "description": "Basic Telephone",
+          "service_id": "3608941160",
+          "amount": 26.71,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 0,
+          "unit_price": 26.71,
+          "charge": 26.71,
+          "children": []
+        },
+        {
+          "description": "Non-Basic Telephone",
+          "service_id": "3608941160",
+          "amount": 3.34,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 0,
+          "unit_price": 3.34,
+          "charge": 3.34,
+          "children": []
+        }
+      ]
+    }
+  }
+  

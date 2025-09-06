@@ -1,0 +1,54 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Lightpath",
+      "invoiceNumber": "101523475",
+      "accountNumber": "104807",
+      "billDate": "01-07-2025",
+      "dueDate": "31-07-2025",
+      "previousBalance": 847.20,
+      "payments": -847.20,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 847.20,
+      "amountDue": 847.20,
+      "remitToName": "Cablevision Lightpath LLC",
+      "remitToAddress1": "PO Box 788632",
+      "remitToAddress2": null,
+      "remitToCity": "Philadelphia",
+      "remitToState": "PA",
+      "remitToZip": "191788632",
+      "billToName": "Flexworx",
+      "billToAddress": "17187 N Laurel Park Dr Ste 125",
+      "billToAddress2": null,
+      "billToCity": "Livonia",
+      "billToState": "MI",
+      "billToZip": "48152"
+    },
+    "InvoiceData": {
+      "Summary": [
+        {
+          "description": "Services",
+          "service_id": null,
+          "amount": 845.00,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 845.00,
+          "charge": 845.00,
+          "children": []
+        },
+        {
+          "description": "Taxes and Surcharges",
+          "service_id": null,
+          "amount": 2.20,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 2.20,
+          "charge": 2.20,
+          "children": []
+        }
+      ]
+    }
+  }
+  

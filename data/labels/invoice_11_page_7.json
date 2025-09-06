@@ -1,0 +1,42 @@
+{
+  "invoiceSummary": {
+    "vendorName": "Telus",
+    "invoiceNumber": null,
+    "accountNumber": "2387840764",
+    "billDate": null,
+    "dueDate": "02-08-2025",
+    "previousBalance": null,
+    "payments": null,
+    "pastDue": null,
+    "adjustments": null,
+    "currentCharges": 0.00,
+    "amountDue": 76.60,
+    "remitToName": "Telus",
+    "remitToAddress1": "PO BOX 7575",
+    "remitToAddress2": null,
+    "remitToCity": "VANCOUVER",
+    "remitToState": "BC",
+    "remitToZip": "V6B 8N9",
+    "billToName": "FILSON CANADA ULC",
+    "billToAddress": "47 WATER ST",
+    "billToAddress2": null,
+    "billToCity": "VANCOUVER",
+    "billToState": "BC",
+    "billToZip": "V6B 1A1"
+  },
+  "InvoiceData": {
+    "Services": [
+      {
+        "description": "TELUS Wi-Fi 25/5",
+        "service_id": "6046920637",
+        "amount": 0.00,
+        "from_date": "11-07-2025",
+        "to_date": "10-08-2025",
+        "quantity": 1,
+        "unit_price": 0.00,
+        "charge": 0.00,
+        "children": []
+      }
+    ]
+  }
+}

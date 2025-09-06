@@ -1,0 +1,88 @@
+{
+  "invoiceSummary": {
+    "vendorName": "MCI Business",
+    "invoiceNumber": null,
+    "accountNumber": "08692006319",
+    "billDate": null,
+    "dueDate": "03-08-2025",
+    "previousBalance": 66.06,
+    "payments": -66.06,
+    "pastDue": 0.0,
+    "adjustments": 0.0,
+    "currentCharges": 65.77,
+    "amountDue": 65.77,
+    "remitToName": "MCI",
+    "remitToAddress1": null,
+    "remitToAddress2": null,
+    "remitToCity": null,
+    "remitToState": null,
+    "remitToZip": null,
+    "billToName": "AMERICAN RED CROSS",
+    "billToAddress": null,
+    "billToAddress2": null,
+    "billToCity": null,
+    "billToState": null,
+    "billToZip": null
+  },
+  "InvoiceData": {
+    "Other Charges": [
+      {
+        "description": "Carrier Access Charge",
+        "service_id": null,
+        "amount": 1.68,
+        "from_date": "10-07-2025",
+        "to_date": "10-08-2025",
+        "quantity": 1,
+        "unit_price": 1.68,
+        "charge": 1.68,
+        "children": []
+      },
+      {
+        "description": "Minimum Usage Fee",
+        "service_id": null,
+        "amount": 45.00,
+        "from_date": "10-07-2025",
+        "to_date": "10-08-2025",
+        "quantity": 1,
+        "unit_price": 45.00,
+        "charge": 45.00,
+        "children": []
+      }
+    ],
+    "Taxes and Surcharges": [
+      {
+        "description": "State & Local Surcharges",
+        "service_id": null,
+        "amount": 0.07,
+        "from_date": "10-07-2025",
+        "to_date": "10-08-2025",
+        "quantity": 1,
+        "unit_price": 0.07,
+        "charge": 0.07,
+        "children": []
+      },
+      {
+        "description": "Federal Universal Service Fee",
+        "service_id": null,
+        "amount": 17.39,
+        "from_date": "10-07-2025",
+        "to_date": "10-08-2025",
+        "quantity": 1,
+        "unit_price": 17.39,
+        "charge": 17.39,
+        "children": []
+      },
+      {
+        "description": "Carrier Cost Recovery Charge",
+        "service_id": null,
+        "amount": 1.63,
+        "from_date": "10-07-2025",
+        "to_date": "10-08-2025",
+        "quantity": 1,
+        "unit_price": 1.63,
+        "charge": 1.63,
+        "children": []
+      }
+    ]
+  }
+}

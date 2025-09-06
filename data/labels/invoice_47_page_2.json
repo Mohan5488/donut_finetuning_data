@@ -1,0 +1,29 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Shentel",
+      "invoiceNumber": "001",
+      "accountNumber": "346241",
+      "billDate": "15-06-2025",
+      "dueDate": "09-07-2025",
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": null,
+      "amountDue": 17.29,
+      "remitToName": "Shentel",
+      "remitToAddress1": "PO BOX 740573",
+      "remitToAddress2": null,
+      "remitToCity": "CINCINNATI",
+      "remitToState": "OH",
+      "remitToZip": "452740573",
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState":null,
+      "billToZip": null
+    },
+    "InvoiceData": {}
+  }
+  

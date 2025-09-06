@@ -1,0 +1,65 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Bell Canada",
+      "invoiceNumber": "X010447435250713",
+      "accountNumber": "5143235922",
+      "billDate": "13-07-2025",
+      "dueDate": "13-08-2025",
+      "previousBalance": 477.42,
+      "payments": -477.42,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 245.66,
+      "amountDue": 245.66,
+      "remitToName": "Bell Canada",
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": "U-Haul CIE Ltée",
+      "billToAddress": "65 Boul Brunswick",
+      "billToAddress2": null,
+      "billToCity": "Dollard-Des-Ormeaux",
+      "billToState": "QC",
+      "billToZip": "H9B 2N4"
+    },
+    "InvoiceData": {
+      "Summary": [
+        {
+          "description": "Recurring Charges",
+          "service_id": null,
+          "amount": 207.61,
+          "from_date": "13-07-2025",
+          "to_date": "12-08-2025",
+          "quantity": 0,
+          "unit_price": 207.61,
+          "charge": 207.61,
+          "children": []
+        },
+        {
+          "description": "Late Payment Charges",
+          "service_id": null,
+          "amount": 6.95,
+          "from_date": "13-07-2025",
+          "to_date": "12-08-2025",
+          "quantity": 0,
+          "unit_price": 6.95,
+          "charge": 6.95,
+          "children": []
+        },
+        {
+          "description": "Taxes",
+          "service_id": null,
+          "amount": 31.10,
+          "from_date": "13-07-2025",
+          "to_date": "12-08-2025",
+          "quantity": 0,
+          "unit_price": 31.10,
+          "charge": 31.10,
+          "children": []
+        }
+      ]
+    }
+  }
+  

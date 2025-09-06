@@ -1,0 +1,54 @@
+{
+    "invoiceSummary": {
+      "vendorName": "C Spire",
+      "invoiceNumber": "0000685889-87",
+      "accountNumber": "0000685889",
+      "billDate": "14-07-2025",
+      "dueDate": "13-08-2025",
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 228.99,
+      "amountDue": null,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "Service Summary": [
+        {
+          "description": "STATIC - IP ADDRESS",
+          "service_id": "11034444",
+          "amount": 9.99,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 1,
+          "unit_price": 9.99,
+          "charge": 9.99,
+          "children": []
+        },
+        {
+          "description": "Small Business Internet Speed: 1000 Mbps",
+          "service_id": "11034444",
+          "amount": 219.00,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 1,
+          "unit_price": 219.00,
+          "charge": 219.00,
+          "children": []
+        }
+      ]
+    }
+  }
+  

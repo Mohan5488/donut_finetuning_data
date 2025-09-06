@@ -1,0 +1,83 @@
+{
+  "invoiceSummary": {
+    "vendorName": "Solarus",
+    "invoiceNumber": null,
+    "accountNumber": "000884622",
+    "billDate": null,
+    "dueDate": "27-06-2025",
+    "previousBalance": null,
+    "payments": null,
+    "pastDue": null,
+    "adjustments": null,
+    "currentCharges": null,
+    "amountDue": null,
+    "remitToName": null,
+    "remitToAddress1": null,
+    "remitToAddress2": null,
+    "remitToCity": null,
+    "remitToState": null,
+    "remitToZip": null,
+    "billToName": null,
+    "billToAddress": null,
+    "billToAddress2": null,
+    "billToCity": null,
+    "billToState": null,
+    "billToZip": null
+  },
+  "InvoiceData": {
+    "Charge Detail": [
+      {
+        "description": "Business Remote Call Forward",
+        "service_id": "715-421-5843",
+        "amount": 16.61,
+        "from_date": "16-06-2025",
+        "to_date": "15-07-2025",
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 16.61,
+        "children": [
+          {
+            "description": "Remote CFWD-Initial Service",
+            "service_id": null,
+            "amount": 15.3,
+            "from_date": "16-06-2025",
+            "to_date": "15-07-2025",
+            "quantity": 1,
+            "unit_price": 15.3,
+            "charge": 15.3
+          },
+          {
+            "description": "Federal Excise Tax",
+            "service_id": null,
+            "amount": 0.46,
+            "from_date": "16-06-2025",
+            "to_date": "15-07-2025",
+            "quantity": 1,
+            "unit_price": 0.46,
+            "charge": 0.46
+          },
+          {
+            "description": "Wisconsin State Sales Tax",
+            "service_id": null,
+            "amount": 0.77,
+            "from_date": "16-06-2025",
+            "to_date": "15-07-2025",
+            "quantity": 1,
+            "unit_price": 0.77,
+            "charge": 0.77
+          },
+          {
+            "description": "Wood County Sales Tax",
+            "service_id": null,
+            "amount": 0.08,
+            "from_date": "16-06-2025",
+            "to_date": "15-07-2025",
+            "quantity": 1,
+            "unit_price": 0.08,
+            "charge": 0.08
+          }
+        ]
+      }
+    ]
+  }
+}

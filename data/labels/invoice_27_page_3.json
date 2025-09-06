@@ -1,0 +1,75 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Comporium",
+      "invoiceNumber": "41348690_250716",
+      "accountNumber": "41348690",
+      "billDate": "16-07-2025",
+      "dueDate": "06-08-2025",
+      "previousBalance": 2011.39,
+      "payments": -2011.39,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 997.60,
+      "amountDue": 997.60,
+      "remitToName": "Comporium",
+      "remitToAddress1": "P.O. BOX 1042",
+      "remitToAddress2": null,
+      "remitToCity": "ROCK HILL",
+      "remitToState": "SC",
+      "remitToZip": "297317042",
+      "billToName": "Pike Corporation DBA - Pike Engineering Attn Advantix",
+      "billToAddress": "17187 N Laurel Park Dr 125",
+      "billToAddress2": null,
+      "billToCity": "LIVONIA",
+      "billToState": "MI",
+      "billToZip": "48152"
+    },
+    "InvoiceData": {
+      "Current Charges Summary": [
+      {
+        "description": "Local Telephone Charges",
+        "service_id": null,
+        "amount": 623.72,
+        "from_date": "16-07-2025",
+        "to_date": "15-08-2025",
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 623.72,
+        "children": []
+      },
+      {
+        "description": "Internet Service Charges",
+        "service_id": null,
+        "amount": 314.94,
+        "from_date": "16-07-2025",
+        "to_date": "15-08-2025",
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 314.94,
+        "children": []
+      },
+      {
+        "description": "Other Charges and Credits",
+        "service_id": null,
+        "amount": -60.00,
+        "from_date": "16-07-2025",
+        "to_date": "15-08-2025",
+        "quantity": 0,
+        "unit_price": -60.00,
+        "charge": -60.00,
+        "children": []
+      },
+      {
+        "description": "Taxes and Surcharges",
+        "service_id": null,
+        "amount": 118.94,
+        "from_date": "16-07-2025",
+        "to_date": "15-08-2025",
+        "quantity": 0,
+        "unit_price": 118.94,
+        "charge": 118.94,
+        "children": []
+      }
+    ]
+  }
+}

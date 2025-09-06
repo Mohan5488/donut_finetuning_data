@@ -1,0 +1,201 @@
+{
+  "invoiceSummary": {
+    "vendorName": "DIRECTV",
+    "invoiceNumber": "305265235_2507",
+    "accountNumber": "305265235",
+    "billDate": "12-07-2025",
+    "dueDate": "02-08-2025",
+    "previousBalance": null,
+    "payments": null,
+    "pastDue": null,
+    "adjustments": null,
+    "currentCharges": 276.69,
+    "amountDue": 276.69,
+    "remitToName": "DIRECTV",
+    "remitToAddress1": "PO BOX 5014",
+    "remitToAddress2": null,
+    "remitToCity": "CAROL STREAM",
+    "remitToState": "IL",
+    "remitToZip": "60197-5014",
+    "billToName": "DANIEL BALDWIN",
+    "billToAddress": "17187 N LAUREL PARK DR STE 125",
+    "billToAddress2": null,
+    "billToCity": "LIVONIA",
+    "billToState": "MI",
+    "billToZip": "48152-2600"
+  },
+  "InvoiceData": {
+    "Monthly charges (Jul 13 - Aug 12)": [
+    {
+    "description": "Monthly charges (Jul 13 - Aug 12)",
+    "service_id": null,
+    "amount": 258.93,
+    "from_date": "13-07-2025",
+    "to_date": "12-08-2025",
+    "quantity": 0,
+    "unit_price": null,
+    "charge": 258.93,
+    "children": [
+        {
+            "description": "CHOICE (all included)",
+            "service_id": null,
+            "amount": 152.0,
+            "from_date": "13-07-2025",
+            "to_date": "12-08-2025",
+            "quantity": 1,
+            "unit_price": 152.0,
+            "charge": 152.0
+        },
+        {
+            "description": "MGM+",
+            "service_id": null,
+            "amount": 6.99,
+            "from_date": "13-07-2025",
+            "to_date": "12-08-2025",
+            "quantity": 1,
+            "unit_price": 6.99,
+            "charge": 6.99
+        },
+        {
+            "description": "Max, Starz, Paramount+ with SHO and Cinemax",
+            "service_id": null,
+            "amount": 51.96,
+            "from_date": "13-07-2025",
+            "to_date": "12-08-2025",
+            "quantity": 1,
+            "unit_price": 51.96,
+            "charge": 51.96
+        },
+        {
+            "description": "TV Access Fee",
+            "service_id": null,
+            "amount": 7.0,
+            "from_date": "13-07-2025",
+            "to_date": "12-08-2025",
+            "quantity": 1,
+            "unit_price": 7.0,
+            "charge": 7.0
+        },
+        {
+            "description": "TV Access Fee",
+            "service_id": null,
+            "amount": 7.0,
+            "from_date": "13-07-2025",
+            "to_date": "12-08-2025",
+            "quantity": 1,
+            "unit_price": 7.0,
+            "charge": 7.0
+        },
+        {
+            "description": "TV Access Fee",
+            "service_id": null,
+            "amount": 7.0,
+            "from_date": "13-07-2025",
+            "to_date": "12-08-2025",
+            "quantity": 1,
+            "unit_price": 7.0,
+            "charge": 7.0
+        },
+        {
+            "description": "TV Access Fee",
+            "service_id": null,
+            "amount": 7.0,
+            "from_date": "13-07-2025",
+            "to_date": "12-08-2025",
+            "quantity": 1,
+            "unit_price": 7.0,
+            "charge": 7.0
+        },
+        {
+            "description": "Regional Sports Fee",
+            "service_id": null,
+            "amount": 9.99,
+            "from_date": "13-07-2025",
+            "to_date": "12-08-2025",
+            "quantity": 1,
+            "unit_price": 9.99,
+            "charge": 9.99
+        },
+        {
+            "description": "DIRECTV Protection Plan",
+            "service_id": null,
+            "amount": 9.99,
+            "from_date": "13-07-2025",
+            "to_date": "12-08-2025",
+            "quantity": 1,
+            "unit_price": 9.99,
+            "charge": 9.99
+          }
+        ]
+      }
+    ],
+    "Company fees & surcharges": [
+      {
+        "description": "Company fees & surcharges",
+        "service_id": null,
+        "amount": 1.37,
+        "from_date": "13-07-2025",
+        "to_date": "12-08-2025",
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 1.37,
+        "children": [
+          {
+            "description": "TX State Cost Recovery Charge",
+            "service_id": null,
+            "amount": 1.37,
+            "from_date": "13-07-2025",
+            "to_date": "12-08-2025",
+            "quantity": 1,
+            "unit_price": 1.37,
+            "charge": 1.37
+          }
+        ]
+      }
+    ],
+    "Government fees & taxes": [
+      {
+        "description": "Government fees & taxes",
+        "service_id": null,
+        "amount": 16.39,
+        "from_date": "13-07-2025",
+        "to_date": "12-08-2025",
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 16.39,
+        "children": [
+          {
+            "description": "TX City District Sales Tax",
+            "service_id": null,
+            "amount": 0.05,
+            "from_date": "13-07-2025",
+            "to_date": "12-08-2025",
+            "quantity": 1,
+            "unit_price": 0.05,
+            "charge": 0.05
+          },
+          {
+            "description": "TX Local Sales Tax",
+            "service_id": null,
+            "amount": 0.15,
+            "from_date": "13-07-2025",
+            "to_date": "12-08-2025",
+            "quantity": 1,
+            "unit_price": 0.15,
+            "charge": 0.15
+          },
+          {
+            "description": "TX State Sales Tax",
+            "service_id": null,
+            "amount": 16.19,
+            "from_date": "13-07-2025",
+            "to_date": "12-08-2025",
+            "quantity": 1,
+            "unit_price": 16.19,
+            "charge": 16.19
+          }
+        ]
+      }
+    ]
+  }
+}

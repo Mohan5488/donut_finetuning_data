@@ -1,0 +1,28 @@
+{
+  "invoiceSummary": {
+    "vendorName": "Optimum Business",
+    "invoiceNumber": null,
+    "accountNumber": "07801480765013",
+    "billDate": null,
+    "dueDate": null,
+    "previousBalance": null,
+    "payments": null,
+    "pastDue": null,
+    "adjustments": null,
+    "currentCharges": null,
+    "amountDue": null,
+    "remitToName": null,
+    "remitToAddress1": null,
+    "remitToAddress2": null,
+    "remitToCity": null,
+    "remitToState": null,
+    "remitToZip": null,
+    "billToName": null,
+    "billToAddress": null,
+    "billToAddress2": null,
+    "billToCity": null,
+    "billToState": null,
+    "billToZip": null
+  },
+  "InvoiceData": {}
+}

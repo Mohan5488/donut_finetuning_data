@@ -1,0 +1,42 @@
+{
+  "invoiceSummary": {
+    "vendorName": "Optimum Business",
+    "invoiceNumber": null,
+    "accountNumber": "07801556175013",
+    "billDate": null,
+    "dueDate": "15-07-2025",
+    "previousBalance": null,
+    "payments": null,
+    "pastDue": null,
+    "adjustments": null,
+    "currentCharges": 15.14,
+    "amountDue": 614.18,
+    "remitToName": "Optimum",
+    "remitToAddress1": "PO BOX 70340",
+    "remitToAddress2": null,
+    "remitToCity": "PHILADELPHIA",
+    "remitToState": "PA",
+    "remitToZip": "19176-0340",
+    "billToName": "NEW YORK COMMUNITY BA",
+    "billToAddress": "102 DUFFY AV FL5",
+    "billToAddress2": null,
+    "billToCity": "HICKSVILLE",
+    "billToState": "NY",
+    "billToZip": "11801"
+  },
+  "InvoiceData": {
+    "Taxes, Fees & Other Charges": [
+      {
+        "description": "Taxes and Other Fees",
+        "service_id": null,
+        "amount": 15.14,
+        "from_date": "01-07-2025",
+        "to_date": "31-07-2025",
+        "quantity": 1,
+        "unit_price": 15.14,
+        "charge": 15.14,
+        "children": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+    "invoiceSummary": {
+      "vendorName": "NextLink Internet",
+      "invoiceNumber": "125227268_2507",
+      "accountNumber": "125227268",
+      "billDate": "18-07-2025",
+      "dueDate": null,
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 158.75,
+      "amountDue": 158.75,
+      "remitToName": "NextLink Internet",
+      "remitToAddress1": "P.O. Box 224704",
+      "remitToAddress2": null,
+      "remitToCity": "Dallas",
+      "remitToState": "TX",
+      "remitToZip": "75222-4704",
+      "billToName": "Michael Hamilton WTG Downstream Holdings, LLC",
+      "billToAddress": "17187 N Laurel Park Dr, Ste 125",
+      "billToAddress2": null,
+      "billToCity": "Livonia",
+      "billToState": "MI",
+      "billToZip": "48152"
+    },
+    "InvoiceData": {
+      "SALES AND CREDITS": [
+        {
+          "service_id": null,
+          "description": "Charges for 07/18/2025 to 08/17/2025",
+          "amount": 149.06,
+          "from_date": "18-07-2025",
+          "to_date": "17-08-2025",
+          "quantity": 0,
+          "unit_price": 1,
+          "charge": 149.06,
+          "children": [
+            {
+              "description": "Regulatory Recovery Fee",
+              "amount": 3.12,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 3.12,
+              "charge": 3.12
+            },
+            {
+              "description": "LINK100",
+              "amount": 109.00,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 109.00,
+              "charge": 109.00
+            },
+            {
+              "description": "Router",
+              "amount": 6.99,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 6.99,
+              "charge": 6.99
+            },
+            {
+              "description": "Preferred",
+              "amount": 19.95,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 19.95,
+              "charge": 19.95
+            },
+            {
+              "description": "10 ft Tripod | Monthly Option",
+              "amount": 10.00,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 10.00,
+              "charge": 10.00
+            },
+            {
+              "description": "DID",
+              "amount": 0.00,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 0.00,
+              "charge": 0.00
+            },
+            {
+              "description": "DID",
+              "amount": 0.00,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 0.00,
+              "charge": 0.00
+            }
+          ]
+        }
+      ],
+      "TAXES AND FEES": [
+        {
+          "service_id": null,
+          "description": "Taxes and Fees",
+          "amount": 9.69,
+          "from_date": "18-07-2025",
+          "to_date": "17-08-2025",
+          "quantity": 0,
+          "unit_price": 1,
+          "charge": 9.69,
+          "children": [
+            {
+              "description": "FUSF (VoIP)",
+              "amount": 1.51,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 1.51,
+              "charge": 1.51
+            },
+            {
+              "description": "FCC Regulatory Fee (VoIP)",
+              "amount": 0.02,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 0.02,
+              "charge": 0.02
+            },
+            {
+              "description": "TX Sales Tax",
+              "amount": 2.84,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 2.84,
+              "charge": 2.84
+            },
+            {
+              "description": "TX E911 Equalization Surcharge",
+              "amount": 0.06,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 0.06,
+              "charge": 0.06
+            },
+            {
+              "description": "TX Texas Universal Service",
+              "amount": 1.73,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 1.73,
+              "charge": 1.73
+            },
+            {
+              "description": "County Sales Tax",
+              "amount": 0.23,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 0.23,
+              "charge": 0.23
+            },
+            {
+              "description": "County E-911 (VoIP Business)",
+              "amount": 0.50,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 0.50,
+              "charge": 0.50
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

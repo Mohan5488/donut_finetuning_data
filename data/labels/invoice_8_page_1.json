@@ -1,0 +1,53 @@
+{
+  "invoiceSummary": {
+    "vendorName": "MCI Business",
+    "invoiceNumber": "08692006319_2507",
+    "accountNumber": "08692006319",
+    "billDate": "10-07-2025",
+    "dueDate": "03-08-2025",
+    "previousBalance": 66.06,
+    "payments": 66.06,
+    "pastDue": 0.0,
+    "adjustments": 0.0,
+    "currentCharges": 65.77,
+    "amountDue": 65.77,
+    "remitToName": "MCI",
+    "remitToAddress1": "P.O. BOX 15043",
+    "remitToAddress2": null,
+    "remitToCity": "ALBANY",
+    "remitToState": "NY",
+    "remitToZip": "12212-5043",
+    "billToName": "AMERICAN RED CROSS",
+    "billToAddress": "17187 N LAUREL PARK DR STE 125",
+    "billToAddress2": null,
+    "billToCity": "LIVONIA",
+    "billToState": "MI",
+    "billToZip": "48152-2600"
+  },
+  "InvoiceData": {
+    "Current Charges": [
+      {
+        "description": "Long Distance Service (MCI Business Gold)",
+        "service_id": null,
+        "amount": 46.68,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 1,
+        "unit_price": 46.68,
+        "charge": 46.68,
+        "children": []
+      },
+      {
+        "description": "Taxes and Surcharges",
+        "service_id": null,
+        "amount": 19.09,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 1,
+        "unit_price": 19.09,
+        "charge": 19.09,
+        "children": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "invoiceSummary": {
+    "vendorName": "Vyve Broadband",
+    "invoiceNumber": "363529701_2507",
+    "accountNumber": "363529701",
+    "billDate": "16-07-2025",
+    "dueDate": "04-08-2025",
+    "previousBalance": 109.95,
+    "payments": -109.95,
+    "pastDue": 0.0,
+    "adjustments": 0.0,
+    "currentCharges": 109.95,
+    "amountDue": 109.95,
+    "remitToName": "Vyve Broadband",
+    "remitToAddress1": "PO Box 26588",
+    "remitToAddress2": null,
+    "remitToCity": "Oklahoma City",
+    "remitToState": "OK",
+    "remitToZip": "73126-0588",
+    "billToName": "AMERICAN RED CROSS",
+    "billToAddress": "C/O AIM STRATEGIES",
+    "billToAddress2": "17187 N LAURL PRK DR STE 125",
+    "billToCity": "LIVONIA",
+    "billToState": "MI",
+    "billToZip": "48152-2600"
+  },
+  "InvoiceData": {
+    "Internet Service": [
+      {
+        "description": "Vyve Internet",
+        "service_id": null,
+        "amount": 109.95,
+        "from_date": "15-07-2025",
+        "to_date": "14-08-2025",
+        "quantity": 1,
+        "unit_price": 109.95,
+        "charge": 109.95,
+        "children": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Bell MTS",
+      "invoiceNumber": "X015554689250713",
+      "accountNumber": "34952549",
+      "billDate": "13-07-2025",
+      "dueDate": "01-08-2025",
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 89.45,
+      "amountDue": null,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "(204) 345-0073": [
+        {
+          "description": "Deny Enhanced Call Again",
+          "service_id": "2043450073",
+          "amount": 0.00,
+          "from_date": "13-07-2025",
+          "to_date": "12-08-2025",
+          "quantity": 1,
+          "unit_price": 0.00,
+          "charge": 0.00,
+          "children": []
+        },
+        {
+          "description": "Individual Business Line",
+          "service_id": "2043450073",
+          "amount": 80.50,
+          "from_date": "13-07-2025",
+          "to_date": "12-08-2025",
+          "quantity": 1,
+          "unit_price": 80.50,
+          "charge": 80.50,
+          "children": []
+        },
+        {
+          "description": "Message Relay Service",
+          "service_id": "2043450073",
+          "amount": 0.00,
+          "from_date": "13-07-2025",
+          "to_date": "12-08-2025",
+          "quantity": 1,
+          "unit_price": 0.00,
+          "charge": 0.00,
+          "children": []
+        },
+        {
+          "description": "Monthly Service Charges",
+          "service_id": "2043450073",
+          "amount": 0.00,
+          "from_date": "13-07-2025",
+          "to_date": "12-08-2025",
+          "quantity": 1,
+          "unit_price": 0.00,
+          "charge": 0.00,
+          "children": []
+        },
+        {
+          "description": "Number Portability Charge",
+          "service_id": "2043450073",
+          "amount": 0.00,
+          "from_date": "13-07-2025",
+          "to_date": "12-08-2025",
+          "quantity": 1,
+          "unit_price": 0.00,
+          "charge": 0.00,
+          "children": []
+        },
+        {
+          "description": "Permanent Call Forwarding",
+          "service_id": "2043450073",
+          "amount": 8.95,
+          "from_date": "13-07-2025",
+          "to_date": "12-08-2025",
+          "quantity": 1,
+          "unit_price": 8.95,
+          "charge": 8.95,
+          "children": []
+        }
+      ]
+    }
+  }
+  

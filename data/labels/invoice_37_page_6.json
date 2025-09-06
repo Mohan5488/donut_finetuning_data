@@ -1,0 +1,83 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Bell Canada",
+      "invoiceNumber": "X010193373250713",
+      "accountNumber": "4504202622",
+      "billDate": "13-07-2025",
+      "dueDate": "13-08-2025",
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 111.40,
+      "amountDue": null,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "Recurring Charges": [
+        {
+          "description": "Voice - Monthly Services",
+          "service_id": "4504202622",
+          "amount": 111.40,
+          "from_date": "13-07-2025",
+          "to_date": "12-08-2025",
+          "quantity": 1,
+          "unit_price": 111.40,
+          "charge": 111.40,
+          "children": [
+            {
+                "description" : "Deny Bill to Third calls",
+                "service_id": "4504202622",
+                "amount": 0.0,
+                "from_date": "13-07-2025",
+                "to_date": "12-08-2025",
+                "quantity": 1,
+                "unit_price": 0.0,
+                "charge":0.0
+            },
+            {
+                "description" : "Deny collect calls",
+                "service_id": "4504202622",
+                "amount": 0.0,
+                "from_date": "13-07-2025",
+                "to_date": "12-08-2025",
+                "quantity": 1,
+                "unit_price": 0.0,
+                "charge":0.0
+            },
+            {
+                "description" : "Single Number Reach Package",
+                "service_id": "4504202622",
+                "amount": 111.40,
+                "from_date": "13-07-2025",
+                "to_date": "12-08-2025",
+                "quantity": 1,
+                "unit_price": 111.40,
+                "charge":111.40
+            },
+            {
+                "description" : "SNR Access Number",
+                "service_id": "4504202622",
+                "amount": 0.0,
+                "from_date": "13-07-2025",
+                "to_date": "12-08-2025",
+                "quantity": 1,
+                "unit_price": 0.0,
+                "charge":0.0
+            }
+          ]
+        }
+      ]
+    }
+  }

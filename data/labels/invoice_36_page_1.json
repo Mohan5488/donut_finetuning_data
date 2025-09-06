@@ -1,0 +1,54 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Access Communications",
+      "invoiceNumber": "4877916_2507",
+      "accountNumber": "4877916",
+      "billDate": "15-07-2025",
+      "dueDate": "10-08-2025",
+      "previousBalance": 120.94,
+      "payments": -120.94,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 120.94,
+      "amountDue": 120.94,
+      "remitToName": "Access Communications",
+      "remitToAddress1": "2250 Park St",
+      "remitToAddress2": null,
+      "remitToCity": "Regina",
+      "remitToState": "SK",
+      "remitToZip": "S4N7K7",
+      "billToName": "U-HAUL COMPANY CENTRAL CA C/A AMI",
+      "billToAddress": "17187 N LAUREL PARK DR STE 125",
+      "billToAddress2": null,
+      "billToCity": "LIVONIA",
+      "billToState": "MI",
+      "billToZip": "48152-2600"
+    },
+    "InvoiceData": {
+      "Account Summary": [
+        {
+          "description": "Internet Services",
+          "service_id": null,
+          "amount": 108.95,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 108.95,
+          "children": []
+        },
+        {
+          "description": "Taxes and Fees",
+          "service_id": null,
+          "amount": 11.99,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 11.99,
+          "children": []
+        }
+      ]
+    }
+  }
+  

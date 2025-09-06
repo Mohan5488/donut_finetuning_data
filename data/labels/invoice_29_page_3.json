@@ -1,0 +1,87 @@
+{
+    "invoiceSummary": {
+      "vendorName": null,
+      "invoiceNumber": null,
+      "accountNumber": null,
+      "billDate": null,
+      "dueDate": null,
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 2233.36,
+      "amountDue": 6293.85,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "Invoice Totals": [
+        {
+          "description": "Charges Subtotal (All Locations)",
+          "service_id": null,
+          "amount": 1991.97,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 1991.97,
+          "charge": 1991.97,
+          "children": []
+        },
+        {
+          "description": "Regulatory Recovery Surcharge (RRS)",
+          "service_id": null,
+          "amount": 241.39,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 241.39,
+          "charge": 241.39,
+          "children": []
+        },
+        {
+          "description": "Invoice Subtotal",
+          "service_id": null,
+          "amount": 2233.36,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 2233.36,
+          "charge": 2233.36,
+          "children": []
+        },
+        {
+          "description": "Past Due Account Balance",
+          "service_id": null,
+          "amount": 4060.49,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 4060.49,
+          "charge": 4060.49,
+          "children": []
+        },
+        {
+          "description": "Amount Due",
+          "service_id": null,
+          "amount": 6293.85,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 6293.85,
+          "charge": 6293.85,
+          "children": []
+        }
+      ]
+    }
+  }
+  

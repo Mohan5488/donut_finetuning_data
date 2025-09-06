@@ -1,0 +1,135 @@
+{
+    "invoiceSummary": {
+      "vendorName": "FARMERS TELECOMMUNICATIONS CORPORATION",
+      "invoiceNumber": null,
+      "accountNumber": "4916200",
+      "billDate": "15-07-2025",
+      "dueDate": "05-08-2025",
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 71.95,
+      "amountDue": 3778.43,
+      "remitToName": "FARMERS TELECOMMUNICATIONS CORPORATION",
+      "remitToAddress1": "P.O. BOX 71287",
+      "remitToAddress2": null,
+      "remitToCity": "CHARLOTTE",
+      "remitToState": "NC",
+      "remitToZip": "28272-1287",
+      "billToName": "BOAZ CITY OF",
+      "billToAddress": "PO BOX 537",
+      "billToAddress2": null,
+      "billToCity": "BOAZ",
+      "billToState": "AL",
+      "billToZip": "35957-0537"
+    },
+    "InvoiceData": {
+      "CITY HALL - FAX": [
+        {
+          "description": "CALLER ID",
+          "service_id": "2565939527",
+          "amount": 29.00,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 1,
+          "unit_price": 29.00,
+          "charge": 29.00,
+          "children": []
+        },
+        {
+          "description": "INTL. TOLL RESTRICTOR",
+          "service_id": "2565939527",
+          "amount": 0.00,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 1,
+          "unit_price": 0.00,
+          "charge": 0.00,
+          "children": []
+        },
+        {
+          "description": "VIRTUAL CONNECT ESSENTIAL",
+          "service_id": "2565939527",
+          "amount": 29.00,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 1,
+          "unit_price": 29.00,
+          "charge": 29.00,
+          "children": []
+        },
+        {
+          "description": "E-911 SERVICE CHARGE",
+          "service_id": "2565939527",
+          "amount": 2.23,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 1,
+          "unit_price": 2.23,
+          "charge": 2.23,
+          "children": []
+        },
+        {
+          "description": "Federal Universal Service",
+          "service_id": "2565939527",
+          "amount": 6.78,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 1,
+          "unit_price": 6.78,
+          "charge": 6.78,
+          "children": []
+        }
+      ],
+      "SR. CENTER": [
+        {
+          "description": "UBIQUITI AP LEASE",
+          "service_id": null,
+          "amount": 20.00,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 2,
+          "unit_price": 10.00,
+          "charge": 20.00,
+          "children": []
+        }
+      ],
+      "CITY HALL": [
+        {
+          "description": "BASIC INTERNET 400 MBPS W/STATIC",
+          "service_id": null,
+          "amount": 100.75,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 1,
+          "unit_price": 100.75,
+          "charge": 100.75,
+          "children": []
+        },
+        {
+          "description": "HIGH SPEED INTERNET STATIC IP",
+          "service_id": null,
+          "amount": 10.00,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 1,
+          "unit_price": 10.00,
+          "charge": 10.00,
+          "children": []
+        },
+        {
+          "description": "DISCOUNT - INTERNET",
+          "service_id": null,
+          "amount": -23.75,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 1,
+          "unit_price": -23.75,
+          "charge": -23.75,
+          "children": []
+        }
+      ]
+    }
+  }
+  

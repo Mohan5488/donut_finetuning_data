@@ -1,0 +1,87 @@
+{
+    "invoiceSummary": {
+      "vendorName": null,
+      "invoiceNumber": "3707179",
+      "accountNumber": "1100009742",
+      "billDate": null,
+      "dueDate": null,
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 170.82,
+      "amountDue": 170.82,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": "Practice Plus",
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": "Little Rock",
+      "billToState": "AR",
+      "billToZip": "722114393"
+    },
+    "InvoiceData": {
+      "Master Account Summary": [
+        {
+          "description": "BHFC BEEBE",
+          "service_id": null,
+          "amount": 34.94,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 34.94,
+          "charge": 34.94,
+          "children": []
+        },
+        {
+          "description": "LAKEWOOD",
+          "service_id": null,
+          "amount": 31.06,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 31.06,
+          "charge": 31.06,
+          "children": []
+        },
+        {
+          "description": "WHITEHALL",
+          "service_id": null,
+          "amount": 23.30,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 23.30,
+          "charge": 23.30,
+          "children": []
+        },
+        {
+          "description": "BHFC WEST",
+          "service_id": null,
+          "amount": 27.17,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 27.17,
+          "charge": 27.17,
+          "children": []
+        },
+        {
+          "description": "BENTON FAM",
+          "service_id": null,
+          "amount": 54.35,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 54.35,
+          "charge": 54.35,
+          "children": []
+        }
+      ]
+    }
+  }
+  

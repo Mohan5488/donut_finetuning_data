@@ -1,0 +1,214 @@
+{
+    "invoiceSummary": {
+      "vendorName": "AT&T",
+      "invoiceNumber": "58022712193841_2507",
+      "accountNumber": "58022712193841",
+      "billDate": "09-07-2025",
+      "dueDate": "30-07-2025",
+      "previousBalance": 93.10,
+      "payments": -93.10,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 88.12,
+      "amountDue": 88.12,
+      "remitToName": "AT&T",
+      "remitToAddress1": "PO BOX 5001",
+      "remitToAddress2": null,
+      "remitToCity": "CAROL STREAM",
+      "remitToState": "IL",
+      "remitToZip": "601975001",
+      "billToName": "STATE OF OKLAHOMA OMPA",
+      "billToAddress": "PO BOX 1960",
+      "billToAddress2": null,
+      "billToCity": "EDMOND",
+      "billToState": "OK",
+      "billToZip": "730831960"
+    },
+    "InvoiceData": {
+      "Monthly Service (Jul 9 thru Aug 8)": [
+        {
+          "description": "580227-1219",
+          "service_id": "5802271219",
+          "amount": 20.61,
+          "from_date": "09-07-2025",
+          "to_date": "08-08-2025",
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 20.61,
+          "children": [
+            {
+              "description": "Basic Local Service - Business",
+              "service_id": null,
+              "amount": 20.61,
+              "from_date": "09-07-2025",
+              "to_date": "08-08-2025",
+              "quantity": 1,
+              "unit_price": 20.61,
+              "charge": 20.61
+            }
+          ]
+        },
+        {
+          "description": "580227-1237",
+          "service_id": "5802271237",
+          "amount": 20.61,
+          "from_date": "09-07-2025",
+          "to_date": "08-08-2025",
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 20.61,
+          "children": [
+            {
+              "description": "Basic Local Service - Business",
+              "service_id": null,
+              "amount": 20.61,
+              "from_date": "09-07-2025",
+              "to_date": "08-08-2025",
+              "quantity": 1,
+              "unit_price": 20.61,
+              "charge": 20.61
+            }
+          ]
+        }
+      ],
+      "Additions and Changes to Service (activity on Jul 1, 2025; prorated Jul 1–Jul 8)": [
+        {
+          "description": "Federal Universal Service Fee",
+          "service_id": null,
+          "amount": -0.18,
+          "from_date": "01-07-2025",
+          "to_date": "08-07-2025",
+          "quantity": 1,
+          "unit_price": -0.18,
+          "charge": -0.18,
+          "children": []
+        },
+        {
+          "description": "Federal Subscriber Line Charge",
+          "service_id": null,
+          "amount": -0.34,
+          "from_date": "01-07-2025",
+          "to_date": "08-07-2025",
+          "quantity": 1,
+          "unit_price": -0.34,
+          "charge": -0.34,
+          "children": []
+        },
+        {
+          "description": "Federal Universal Service Fee",
+          "service_id": null,
+          "amount": -0.18,
+          "from_date": "01-07-2025",
+          "to_date": "08-07-2025",
+          "quantity": 1,
+          "unit_price": -0.18,
+          "charge": -0.18,
+          "children": []
+        },
+        {
+          "description": "Federal Subscriber Line Charge",
+          "service_id": null,
+          "amount": -0.34,
+          "from_date": "01-07-2025",
+          "to_date": "08-07-2025",
+          "quantity": 1,
+          "unit_price": -0.34,
+          "charge": -0.34,
+          "children": []
+        }
+      ],
+      "Company Fees and Surcharges": [
+        {
+          "description": "Federal Subscriber Line Charge",
+          "service_id": null,
+          "amount": 23.70,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 23.70,
+          "charge": 23.70,
+          "children": []
+        },
+        {
+          "description": "911 Fee",
+          "service_id": null,
+          "amount": 2.50,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 2.50,
+          "charge": 2.50,
+          "children": []
+        },
+        {
+          "description": "Federal Universal Service Fee",
+          "service_id": null,
+          "amount": 10.44,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 10.44,
+          "charge": 10.44,
+          "children": []
+        },
+        {
+          "description": "Other Surcharges and Fees",
+          "service_id": null,
+          "amount": 0.56,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 0.56,
+          "charge": 0.56,
+          "children": []
+        },
+        {
+          "description": "OK Universal Service Fee",
+          "service_id": null,
+          "amount": 3.26,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 3.26,
+          "charge": 3.26,
+          "children": []
+        },
+        {
+          "description": "Cost Assessment Charge",
+          "service_id": null,
+          "amount": 7.48,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 7.48,
+          "charge": 7.48,
+          "children": []
+        }
+      ],
+      "Government Fees and Taxes": [
+        {
+          "description": "Federal",
+          "service_id": null,
+          "amount": 0.0,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 0.0,
+          "charge": 0.0,
+          "children": []
+        },
+        {
+          "description": "State and Local",
+          "service_id": null,
+          "amount": 0.0,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 0.0,
+          "charge": 0.0,
+          "children": []
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,28 @@
+{
+  "invoiceSummary": {
+    "vendorName": "GoNetspeed",
+    "invoiceNumber": "325661_2507",
+    "accountNumber": "325661",
+    "billDate": "10-07-2025",
+    "dueDate": "09-08-2025",
+    "previousBalance": 87.26,
+    "payments": -87.26,
+    "pastDue": 0.0,
+    "adjustments": 0.0,
+    "currentCharges": 87.26,
+    "amountDue": 87.26,
+    "remitToName": "GoNetspeed",
+    "remitToAddress1": "PO BOX 70730",
+    "remitToAddress2": null,
+    "remitToCity": "PHILADELPHIA",
+    "remitToState": "PA",
+    "remitToZip": "19176-0730",
+    "billToName": "AMERICAN RED CROSS MID COAST",
+    "billToAddress": "C/O AMI STRATEGIES",
+    "billToAddress2": "17187 N LAUREL PARK DR STE 12",
+    "billToCity": "LIVONIA",
+    "billToState": "MI",
+    "billToZip": "48152-3940"
+  },
+  "InvoiceData": {}
+}

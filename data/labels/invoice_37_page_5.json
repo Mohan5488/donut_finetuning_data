@@ -1,0 +1,54 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Bell Canada",
+      "invoiceNumber": "X010193373250713",
+      "accountNumber": "4504202622",
+      "billDate": "13-07-2025",
+      "dueDate": "13-08-2025",
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 16.68,
+      "amountDue": null,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "Taxes": [
+        {
+          "description": "GST (5%)",
+          "service_id": null,
+          "amount": 5.57,
+          "from_date": "13-07-2025",
+          "to_date": "12-08-2025",
+          "quantity": 0,
+          "unit_price": 5.57,
+          "charge": 5.57,
+          "children": []
+        },
+        {
+          "description": "QST (9.975%)",
+          "service_id": null,
+          "amount": 11.11,
+          "from_date": "13-07-2025",
+          "to_date": "12-08-2025",
+          "quantity": 0,
+          "unit_price": 11.11,
+          "charge": 11.11,
+          "children": []
+        }
+      ]
+    }
+  }
+  

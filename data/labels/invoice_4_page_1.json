@@ -1,0 +1,87 @@
+{
+  "invoiceSummary": {
+    "vendorName": "Optimum Business",
+    "invoiceNumber": "07801480765013_2507",
+    "accountNumber": "07801480765013",
+    "billDate": "01-07-2025",
+    "dueDate": "15-07-2025",
+    "previousBalance": 155.0,
+    "payments": -155.0,
+    "pastDue": 155.0,
+    "adjustments": 0.0,
+    "currentCharges": 10.0,
+    "amountDue": 165.0,
+    "remitToName": "Optimum",
+    "remitToAddress1": "PO BOX 70340",
+    "remitToAddress2": null,
+    "remitToCity": "PHILADELPHIA",
+    "remitToState": "PA",
+    "remitToZip": "19176-0340",
+    "billToName": "ROSLYNSA VINGS BANK",
+    "billToAddress": "1400 OLD NORTHERN BL",
+    "billToAddress2": null,
+    "billToCity": "ROSLYN",
+    "billToState": "NY",
+    "billToZip": "11576-2251"
+  },
+  "InvoiceData": { 
+    "One Time Activity": [
+      {
+        "description": "Late Fee",
+        "service_id": null,
+        "amount": 10.0,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 10.0,
+        "children": []
+      },
+      {
+        "description": "Payment ADJ",
+        "service_id": null,
+        "amount": -155.0,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": -155.0,
+        "children": []
+      }
+    ],
+    "Current Monthly Charges": [
+      {
+        "description": "INTERNET",
+        "service_id": null,
+        "amount": 155.0,
+        "from_date": "01-07-2025",
+        "to_date": "31-07-2025",
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 155.0,
+        "children": [
+          {
+            "description": "Optimum Internet (With Security Built-In)",
+            "service_id": null,
+            "amount": 155.0,
+            "from_date": "01-07-2025",
+            "to_date": "31-07-2025",
+            "quantity": 1,
+            "unit_price": 155.0,
+            "charge": 155.0
+          },
+          {
+            "description": "500 Mbps Speed Boost",
+            "service_id": null,
+            "amount": 0.0,
+            "from_date": "01-07-2025",
+            "to_date": "31-07-2025",
+            "quantity": 1,
+            "unit_price": 0.0,
+            "charge": 0.0
+          }
+        ]
+      }
+    ]
+  }
+}

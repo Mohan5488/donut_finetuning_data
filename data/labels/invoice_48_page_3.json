@@ -1,0 +1,196 @@
+{
+    "invoiceSummary": {
+      "vendorName": "AT&T",
+      "invoiceNumber": "231347088507",
+      "accountNumber": "23134708859687",
+      "billDate": "10-07-2025",
+      "dueDate": "09-08-2025",
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 1293.06,
+      "amountDue": -1356.13,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "Monthly Service - Continued": [
+        {
+          "description": "Federal Access Charge (231-347-5569)",
+          "service_id": "2313475569",
+          "amount": 11.64,
+          "from_date": "10-07-2025",
+          "to_date": "09-08-2025",
+          "quantity": 1,
+          "unit_price": 11.64,
+          "charge": 11.64,
+          "children": []
+        },
+        {
+          "description": "Federal Access Charge (231-347-7199)",
+          "service_id": "2313477199",
+          "amount": 11.64,
+          "from_date": "10-07-2025",
+          "to_date": "09-08-2025",
+          "quantity": 1,
+          "unit_price": 11.64,
+          "charge": 11.64,
+          "children": []
+        },
+        {
+          "description": "Federal Access Charge (231-439-3748)",
+          "service_id": "2314393748",
+          "amount": 11.64,
+          "from_date": "10-07-2025",
+          "to_date": "09-08-2025",
+          "quantity": 1,
+          "unit_price": 11.64,
+          "charge": 11.64,
+          "children": []
+        },
+        {
+          "description": "Federal Access Charge (231-439-3776)",
+          "service_id": "2314393776",
+          "amount": 11.64,
+          "from_date": "10-07-2025",
+          "to_date": "09-08-2025",
+          "quantity": 1,
+          "unit_price": 11.64,
+          "charge": 11.64,
+          "children": []
+        }
+      ],
+      "Additions and Changes to Service": [
+        {
+          "description": "Monthly Service (proration credit Jul 1–Jul 9 per Order R9037329974)",
+          "service_id": null,
+          "amount": -6.83,
+          "from_date": "01-07-2025",
+          "to_date": "09-07-2025",
+          "quantity": 1,
+          "unit_price": -6.83,
+          "charge": -6.83,
+          "children": []
+        }
+      ],
+      "Local Calls": [
+        {
+          "description": "Unlimited Local Usage Plan Summary – 13 calls billed at no charge",
+          "service_id": "2314393776",
+          "amount": 0.00,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 13,
+          "unit_price": 0.00,
+          "charge": 0.00,
+          "children": []
+        }
+      ],
+      "Company Fees and Surcharges": [
+        {
+          "description": "9-1-1 Emergency System (multi city/counties)",
+          "service_id": null,
+          "amount": 6.66,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": 6.66,
+          "charge": 6.66,
+          "children": []
+        },
+        {
+          "description": "Emergency 9-1-1 Operational Assessment (multi city/counties)",
+          "service_id": null,
+          "amount": 5.49,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": 5.49,
+          "charge": 5.49,
+          "children": []
+        },
+        {
+          "description": "Michigan State E911",
+          "service_id": null,
+          "amount": 2.25,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": 2.25,
+          "charge": 2.25,
+          "children": []
+        },
+        {
+          "description": "Federal Universal Service Fee",
+          "service_id": null,
+          "amount": 52.56,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": 52.56,
+          "charge": 52.56,
+          "children": []
+        },
+        {
+          "description": "Cost Assessment Charge",
+          "service_id": null,
+          "amount": 34.38,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": 34.38,
+          "charge": 34.38,
+          "children": []
+        }
+      ],
+      "Government Fees and Taxes": [
+        {
+          "description": "Federal (3%)",
+          "service_id": null,
+          "amount": 32.90,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": 32.90,
+          "charge": 32.90,
+          "children": []
+        },
+        {
+          "description": "State (6%)",
+          "service_id": null,
+          "amount": 70.89,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": 70.89,
+          "charge": 70.89,
+          "children": []
+        }
+      ],
+      "Totals": [
+        {
+          "description": "Total Plans and Services",
+          "service_id": null,
+          "amount": 1293.06,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 1293.06,
+          "charge": 1293.06,
+          "children": []
+        }
+      ]
+    }
+  }
+  

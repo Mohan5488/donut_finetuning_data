@@ -1,0 +1,113 @@
+{
+  "invoiceSummary": {
+    "vendorName": "AT&T",
+    "invoiceNumber": "812284574907",
+    "accountNumber": "8122845749645",
+    "billDate": "04-07-2025",
+    "dueDate": "26-07-2025",
+    "previousBalance": null,
+    "payments": null,
+    "pastDue": null,
+    "adjustments": null,
+    "currentCharges": 25.31,
+    "amountDue": 485.43,
+    "remitToName": "AT&T",
+    "remitToAddress1": "PO BOX 5080",
+    "remitToAddress2": null,
+    "remitToCity": "CAROL STREAM",
+    "remitToState": "IL",
+    "remitToZip": "60197-5080",
+    "billToName": "AMERICAN SENIOR COMMUNITIES",
+    "billToAddress": "6900 GRAY RD",
+    "billToAddress2": null,
+    "billToCity": "INDIANAPOLIS",
+    "billToState": "IN",
+    "billToZip": "46237-3209"
+  },
+  "InvoiceData": {
+    "AT&T Long Distance": [
+      {
+        "description": "BUS UNL CLG V 1L M2M",
+        "service_id": null,
+        "amount": 20.0,
+        "from_date": "17-06-2025",
+        "to_date": "16-07-2025",
+        "quantity": 1,
+        "unit_price": 20.0,
+        "charge": 20.0
+      },
+      {
+        "description": "Federal Regulatory Fee",
+        "service_id": null,
+        "amount": 0.96,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 1,
+        "unit_price": 0.96,
+        "charge": 0.96
+      },
+      {
+        "description": "Federal Universal Service Fee",
+        "service_id": null,
+        "amount": 3.32,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 1,
+        "unit_price": 3.32,
+        "charge": 3.32
+      },
+      {
+        "description": "IN Universal Service Surcharge",
+        "service_id": null,
+        "amount": 0.2,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 1,
+        "unit_price": 0.2,
+        "charge": 0.2
+      }
+    ],
+    "Taxes": [
+      {
+        "description": "Federal",
+        "service_id": null,
+        "amount": 0.00,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 1,
+        "unit_price": 0.00,
+        "charge": 0.00
+      },
+      {
+        "description": "State",
+        "service_id": null,
+        "amount": 0.83,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 1,
+        "unit_price": 0.83,
+        "charge": 0.83
+      },
+      {
+        "description": "Municipal",
+        "service_id": null,
+        "amount": 0.00,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 1,
+        "unit_price": 0.00,
+        "charge": 0.00
+      },
+      {
+        "description": "Non Home State",
+        "service_id": null,
+        "amount": 0.00,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 1,
+        "unit_price": 0.00,
+        "charge": 0.00
+      }
+    ]
+  }
+}

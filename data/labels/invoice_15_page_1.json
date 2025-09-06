@@ -1,0 +1,29 @@
+{
+    "invoiceSummary": {
+      "vendorName": "DIRECTV",
+      "invoiceNumber": "305265235_2507",
+      "accountNumber": "305265235",
+      "billDate": "12-07-2025",
+      "dueDate": "02-08-2025",
+      "previousBalance": 282.94,
+      "payments": -282.94,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 276.69,
+      "amountDue": 276.69,
+      "remitToName": "DIRECTV",
+      "remitToAddress1": "PO BOX 5014",
+      "remitToAddress2": null,
+      "remitToCity": "CAROL STREAM",
+      "remitToState": "IL",
+      "remitToZip": "60197-5014",
+      "billToName": "DANIEL BALDWIN",
+      "billToAddress": "17187 N LAUREL PARK DR STE 125",
+      "billToAddress2": null,
+      "billToCity": "LIVONIA",
+      "billToState": "MI",
+      "billToZip": "48152-2600"
+    },
+    "InvoiceData": {}
+  }
+  

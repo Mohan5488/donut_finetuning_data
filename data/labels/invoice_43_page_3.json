@@ -1,0 +1,76 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Comporium",
+      "invoiceNumber": "42021676_250716",
+      "accountNumber": "42021676",
+      "billDate": "16-07-2025",
+      "dueDate": "06-08-2025",
+      "previousBalance": 227.00,
+      "payments": -227.00,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 226.93,
+      "amountDue": 226.93,
+      "remitToName": "Comporium",
+      "remitToAddress1": "P.O. BOX 1042",
+      "remitToAddress2": null,
+      "remitToCity": "Rock Hill",
+      "remitToState": "SC",
+      "remitToZip": "29731-7042",
+      "billToName": "U-Haul Co - 780073",
+      "billToAddress": "PO BOX 21505",
+      "billToAddress2": null,
+      "billToCity": "Phoenix",
+      "billToState": "AZ",
+      "billToZip": "85038-1505"
+    },
+    "InvoiceData": {
+      "Summary": [
+        {
+          "description": "Local Telephone Charges",
+          "service_id": null,
+          "amount": 44.32,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 0,
+          "unit_price": 44.32,
+          "charge": 44.32,
+          "children": []
+        },
+        {
+          "description": "Internet Service Charges",
+          "service_id": null,
+          "amount": 169.93,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 0,
+          "unit_price": 169.93,
+          "charge": 169.93,
+          "children": []
+        },
+        {
+          "description": "Other Charges and Credits",
+          "service_id": null,
+          "amount": 2.39,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 0,
+          "unit_price": 2.39,
+          "charge": 2.39,
+          "children": []
+        },
+        {
+          "description": "Taxes and Surcharges",
+          "service_id": null,
+          "amount": 10.29,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 0,
+          "unit_price": 10.29,
+          "charge": 10.29,
+          "children": []
+        }
+      ]
+    }
+  }
+  

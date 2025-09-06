@@ -1,0 +1,166 @@
+{
+    "invoiceSummary": {
+      "vendorName": null,
+      "invoiceNumber": null,
+      "accountNumber": null,
+      "billDate": null,
+      "dueDate": null,
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": null,
+      "amountDue": null,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "DR. BENJAMIN CARRLE (CRC Central) | 3317 W Bancroft St, Toledo, OH 43606": [
+        {
+          "description": "End of Service - Prorated for 2 Days - Bandwidth|Link 200x5 (Static) Internet Access Circuit",
+          "service_id": null,
+          "amount": 25.57,
+          "from_date": "01-07-2025",
+          "to_date": "02-07-2025",
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 25.57,
+          "children": [
+            {
+              "description": "Prorated Service",
+              "service_id": null,
+              "amount": 22.73,
+              "from_date": "01-07-2025",
+              "to_date": "02-07-2025",
+              "quantity": 1,
+              "unit_price": 22.73,
+              "charge": 22.73
+            },
+            {
+              "description": "Regulatory Recovery Surcharge (RRS)",
+              "service_id": null,
+              "amount": 2.84,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 2.84,
+              "charge": 2.84
+            }
+          ]
+        }
+      ],
+      "DR. AMBER DECHAMBEAU (CRC Central) | 3512 Utah St, San Diego, CA 92104": [
+        {
+          "description": "Bandwidth|Link 200x40 Broadband",
+          "service_id": "4160",
+          "amount": 236.25,
+          "from_date": "01-07-2025",
+          "to_date": "31-07-2025",
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 236.25,
+          "children": [
+            {
+              "description": "Monthly Charge",
+              "service_id": null,
+              "amount": 210.00,
+              "from_date": "01-07-2025",
+              "to_date": "31-07-2025",
+              "quantity": 1,
+              "unit_price": 210.00,
+              "charge": 210.00
+            },
+            {
+              "description": "Regulatory Recovery Surcharge (RRS)",
+              "service_id": null,
+              "amount": 26.25,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 26.25,
+              "charge": 26.25
+            }
+          ]
+        }
+      ],
+      "CRC PRACTICE - VEENA NAGAR | 4225 Clifton Ct, Dublin, OH 43016": [
+        {
+          "description": "Bandwidth|Link 600Mx35M (1 Static IP)",
+          "service_id": "10010",
+          "amount": 337.50,
+          "from_date": "01-07-2025",
+          "to_date": "31-07-2025",
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 337.50,
+          "children": [
+            {
+              "description": "Monthly Charge",
+              "service_id": null,
+              "amount": 300.00,
+              "from_date": "01-07-2025",
+              "to_date": "31-07-2025",
+              "quantity": 1,
+              "unit_price": 300.00,
+              "charge": 300.00
+            },
+            {
+              "description": "Regulatory Recovery Surcharge (RRS)",
+              "service_id": null,
+              "amount": 37.50,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 37.50,
+              "charge": 37.50
+            }
+          ]
+        }
+      ],
+      "CRC PRACTICE - ERIK DING | 730 Bigham Ridge Blvd, Westerville, OH 43081": [
+        {
+          "description": "Bandwidth|Link 600Mx35M (1 Static IP)",
+          "service_id": "10011",
+          "amount": 337.50,
+          "from_date": "01-07-2025",
+          "to_date": "31-07-2025",
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 337.50,
+          "children": [
+            {
+              "description": "Monthly Charge",
+              "service_id": null,
+              "amount": 300.00,
+              "from_date": "01-07-2025",
+              "to_date": "31-07-2025",
+              "quantity": 1,
+              "unit_price": 300.00,
+              "charge": 300.00
+            },
+            {
+              "description": "Regulatory Recovery Surcharge (RRS)",
+              "service_id": null,
+              "amount": 37.50,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 37.50,
+              "charge": 37.50
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

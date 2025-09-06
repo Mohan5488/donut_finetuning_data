@@ -1,0 +1,198 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Lightcurve",
+      "invoiceNumber": "652017210_2507",
+      "accountNumber": "652017210",
+      "billDate": "16-07-2025",
+      "dueDate": null,
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 39.35,
+      "amountDue": 39.35,
+      "remitToName": "Lightcurve",
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress1": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "invoiceData": {
+      "BASIC_TELEPHONE": [
+        {
+          "serviceId": "3604460001",
+          "description": "BASIC TELEPHONE charges for 07/16-08/15",
+          "amount": 28.15,
+          "fromDate": "16-07-2025",
+          "toDate": "15-08-2025",
+          "quantity": null,
+          "unitPrice": 1,
+          "charge": 28.15,
+          "children": [
+            {
+              "description": "ACCESS LINE - REMOTE CALL FORWARD",
+              "amount": 24.00,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": 24.00,
+              "charge": 24.00
+            },
+            {
+              "description": "Federal Tax",
+              "amount": 0.72,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": 0.72,
+              "charge": 0.72
+            },
+            {
+              "description": "State Tax",
+              "amount": 1.56,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": 1.56,
+              "charge": 1.56
+            },
+            {
+              "description": "Rainier",
+              "amount": 0.43,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": 0.43,
+              "charge": 0.43
+            },
+            {
+              "description": "Rainier Utility TAX",
+              "amount": 1.44,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": 1.44,
+              "charge": 1.44
+            }
+          ]
+        }
+      ],
+      "NON_BASIC_TELEPHONE": [
+        {
+          "serviceId": "3604460001",
+          "description": "NON-BASIC TELEPHONE charges for 07/16-08/15",
+          "amount": 3.52,
+          "fromDate": "16-07-2025",
+          "toDate": "15-08-2025",
+          "quantity": null,
+          "unitPrice": 1,
+          "charge": 3.52,
+          "children": [
+            {
+              "description": "CALL FORWARD - FIXED",
+              "amount": 3.00,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": 3.00,
+              "charge": 3.00
+            },
+            {
+              "description": "Federal Tax",
+              "amount": 0.09,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": 0.09,
+              "charge": 0.09
+            },
+            {
+              "description": "State Tax",
+              "amount": 0.20,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": 0.20,
+              "charge": 0.20
+            },
+            {
+              "description": "Rainier",
+              "amount": 0.05,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": 0.05,
+              "charge": 0.05
+            },
+            {
+              "description": "Rainier Utility TAX",
+              "amount": 0.18,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": 0.18,
+              "charge": 0.18
+            }
+          ]
+        }
+      ],
+      "OTHER": [
+        {
+          "serviceId": "3604460001",
+          "description": "OTHER charges for 07/16-08/15",
+          "amount": 7.68,
+          "fromDate": "16-07-2025",
+          "toDate": "15-08-2025",
+          "quantity": null,
+          "unitPrice": 1,
+          "charge": 7.68,
+          "children": [
+            {
+              "description": "REGULATORY RECOVERY FEE",
+              "amount": 1.18,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": 1.18,
+              "charge": 1.18
+            },
+            {
+              "description": "LONG DISTANCE ACCESS FEE",
+              "amount": 6.00,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": 6.00,
+              "charge": 6.00
+            },
+            {
+              "description": "State Tax",
+              "amount": 0.39,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": 0.39,
+              "charge": 0.39
+            },
+            {
+              "description": "Rainier",
+              "amount": 0.11,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": 0.11,
+              "charge": 0.11
+            }
+          ]
+        }
+      ]
+    }
+}
+  

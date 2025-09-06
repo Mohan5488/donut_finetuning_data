@@ -1,0 +1,43 @@
+{
+    "invoiceSummary": {
+      "vendorName": "C Spire",
+      "invoiceNumber": "0000685889-87",
+      "accountNumber": "0000685889",
+      "billDate": "14-07-2025",
+      "dueDate": "13-08-2025",
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 0.00,
+      "amountDue": null,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "Serviec Summary": [
+        {
+          "description": "STATIC - IP ADDRESS",
+          "service_id": "11037220",
+          "amount": 0.00,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 1,
+          "unit_price": 0.00,
+          "charge": 0.00,
+          "children": []
+        }
+      ]
+    }
+  }
+  

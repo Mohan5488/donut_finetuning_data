@@ -1,0 +1,153 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Sparklight Business",
+      "invoiceNumber": "8160360290006003_2506",
+      "accountNumber": "8160360290006003",
+      "billDate": "26-05-2025",
+      "dueDate": "14-06-2025",
+      "previousBalance": 11.13,
+      "payments": 22.24,
+      "pastDue": 0,
+      "adjustments": 0,
+      "currentCharges": 11.12,
+      "amountDue": 0.01,
+      "remitToName": "Sparklight Business",
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress1": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "invoiceData": {
+      "ACCOUNT_ACTIVITY": [
+        {
+          "serviceId": null,
+          "description": "Account Activity for 06/01/25 - 06/30/25",
+          "amount": -11.11,
+          "fromDate": "01-06-2025",
+          "toDate": "30-06-2025",
+          "quantity": null,
+          "unitPrice": 1,
+          "charge": -11.11,
+          "children": [
+            {
+              "description": "Previous Balance",
+              "amount": 11.13,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": 11.13,
+              "charge": 11.13
+            },
+            {
+              "description": "Check Payment - Thank You 05/07",
+              "amount": -11.12,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": -11.12,
+              "charge": -11.12
+            },
+            {
+              "description": "Check Payment - Thank You 05/14",
+              "amount": -11.12,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": -11.12,
+              "charge": -11.12
+            }
+          ]
+        }
+      ],
+      "PHONE_CHARGES": [
+        {
+          "serviceId": null,
+          "description": "Total Phone Charges",
+          "amount": 10.00,
+          "fromDate": "01-06-2025",
+          "toDate": "30-06-2025",
+          "quantity": null,
+          "unitPrice": 1,
+          "charge": 10.00,
+          "children": [
+            {
+              "description": "Remote Call Forwarding",
+              "amount": 10.00,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": 10.00,
+              "charge": 10.00
+            }
+          ]
+        }
+      ],
+      "TAXES_FEES": [
+        {
+          "serviceId": null,
+          "description": "Total Taxes & Fees",
+          "amount": 1.12,
+          "fromDate": "01-06-2025",
+          "toDate": "30-06-2025",
+          "quantity": null,
+          "unitPrice": 1,
+          "charge": 1.12,
+          "children": [
+            {
+              "description": "County Sales Tax",
+              "amount": 0.23,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": 0.23,
+              "charge": 0.23
+            },
+            {
+              "description": "City Sales Tax",
+              "amount": 0.15,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": 0.15,
+              "charge": 0.15
+            },
+            {
+              "description": "Federal Excise Tax",
+              "amount": 0.30,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": 0.30,
+              "charge": 0.30
+            },
+            {
+              "description": "Missouri Universal Service Fund",
+              "amount": 0.02,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": 0.02,
+              "charge": 0.02
+            },
+            {
+              "description": "State Sales Tax",
+              "amount": 0.42,
+              "fromDate": null,
+              "toDate": null,
+              "quantity": 1,
+              "unitPrice": 0.42,
+              "charge": 0.42
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

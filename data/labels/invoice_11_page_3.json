@@ -1,0 +1,75 @@
+{
+  "invoiceSummary": {
+    "vendorName": "Telus",
+    "invoiceNumber": null,
+    "accountNumber": "2387840764",
+    "billDate": null,
+    "dueDate": "02-08-2025",
+    "previousBalance": null,
+    "payments": null,
+    "pastDue": 1.53,
+    "adjustments": null,
+    "currentCharges": 15.03,
+    "amountDue": 76.60,
+    "remitToName": "Telus",
+    "remitToAddress1": "PO BOX 7575",
+    "remitToAddress2": null,
+    "remitToCity": "VANCOUVER",
+    "remitToState": "BC",
+    "remitToZip": "V6B 8N9",
+    "billToName": "FILSON CANADA ULC",
+    "billToAddress": "47 WATER ST",
+    "billToAddress2": null,
+    "billToCity": "VANCOUVER",
+    "billToState": "BC",
+    "billToZip": "V6B 1A1"
+  },
+  "InvoiceData": {
+    "Additional Charges": [
+      {
+        "description": "Office Essentials Monthly",
+        "service_id": null,
+        "amount": 15.00,
+        "from_date": "02-07-2025",
+        "to_date": "02-08-2025",
+        "quantity": 1,
+        "unit_price": 15.00,
+        "charge": 15.00,
+        "children": []
+      },
+      {
+        "description": "Late Payment Charge",
+        "service_id": null,
+        "amount": 0.03,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 1,
+        "unit_price": 0.03,
+        "charge": 0.03,
+        "children": []
+      }
+    ],
+    "Taxes": [
+      {
+        "description": "GST @ 5%",
+        "service_id": null,
+        "amount": 0.75,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 1,
+        "unit_price": 0.75,
+        "charge": 0.75
+      },
+      {
+        "description": "BC PST @ 7%",
+        "service_id": null,
+        "amount": 1.05,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 1,
+        "unit_price": 1.05,
+        "charge": 1.05
+      }
+    ]
+  }
+}

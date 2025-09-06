@@ -1,0 +1,71 @@
+{
+    "invoiceSummary": {
+      "vendorName": "NextLink Internet",
+      "invoiceNumber": "125227268_2507",
+      "accountNumber": "125227268",
+      "billDate": "18-07-2025",
+      "dueDate": null,
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 158.75,
+      "amountDue": 158.75,
+      "remitToName": "NextLink Internet",
+      "remitToAddress1": "P.O. Box 224704",
+      "remitToAddress2": null,
+      "remitToCity": "Dallas",
+      "remitToState": "TX",
+      "remitToZip": "75222-4704",
+      "billToName": "Michael Hamilton WTG Downstream Holdings, LLC",
+      "billToAddress": "17187 N Laurel Park Dr, Ste 125",
+      "billToAddress2": null,
+      "billToCity": "Livonia",
+      "billToState": "MI",
+      "billToZip": "48152"
+    },
+    "InvoiceData": {
+      "TAXES AND FEES": [
+        {
+          "service_id": null,
+          "description": "Taxes and Fees",
+          "amount": 2.80,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 1,
+          "charge": 2.80,
+          "children": [
+            {
+              "description": "City Sales Tax",
+              "amount": 0.68,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 0.68,
+              "charge": 0.68
+            },
+            {
+              "description": "E911 Recovery Fee",
+              "amount": 0.99,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 0.99,
+              "charge": 0.99
+            },
+            {
+              "description": "State Cost - Recovery Fee",
+              "amount": 1.13,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 1.13,
+              "charge": 1.13
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

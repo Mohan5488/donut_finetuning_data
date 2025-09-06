@@ -1,0 +1,268 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Comporium",
+      "invoiceNumber": "41348690_250716",
+      "accountNumber": "41348690",
+      "billDate": "16-07-2025",
+      "dueDate": "06-08-2025",
+      "previousBalance": null,
+      "payments": -2011.39,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 997.60,
+      "amountDue": null,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "Local Telephone Charges": [
+        {
+          "description": "803 835-6980",
+          "service_id": "8038356980",
+          "amount": 576.70,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 576.70,
+          "children": [
+            {
+              "description": "DID Numbers (6 @ 4.00)",
+              "service_id": null,
+              "amount": 24.00,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 6,
+              "unit_price": 4.00,
+              "charge": 24.00
+            },
+            {
+              "description": "DID Numbers (Block of 20) (3 @ 4.00)",
+              "service_id": null,
+              "amount": 12.00,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 3,
+              "unit_price": 4.00,
+              "charge": 12.00
+            },
+            {
+              "description": "ISDN-PRI Flat Rate Special Offer (3 yr)",
+              "service_id": null,
+              "amount": 400.00,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 400.00,
+              "charge": 400.00
+            },
+            {
+              "description": "Federal End/User Access Recovery Charge (5 @ 12.20)",
+              "service_id": null,
+              "amount": 61.00,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 5,
+              "unit_price": 12.20,
+              "charge": 61.00
+            },
+            {
+              "description": "End User Line Port Charge ISDN PRI",
+              "service_id": null,
+              "amount": 23.51,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 23.51,
+              "charge": 23.51
+            },
+            {
+              "description": "Dual Party Relay Service Charge (23 @ .03)",
+              "service_id": null,
+              "amount": 0.69,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 23,
+              "unit_price": 0.03,
+              "charge": 0.69
+            },
+            {
+              "description": "York County 911 Charge (23 @ .50)",
+              "service_id": null,
+              "amount": 11.50,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 23,
+              "unit_price": 0.50,
+              "charge": 11.50
+            },
+            {
+              "description": "PRI Direct In Dial Sta Nos (11 @ 4.00)",
+              "service_id": null,
+              "amount": 44.00,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 11,
+              "unit_price": 4.00,
+              "charge": 44.00
+            }
+          ]
+        },
+        {
+          "description": "803 835-8662",
+          "service_id": "8038358662",
+          "amount": 47.02,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 47.02,
+          "children": [
+            {
+              "description": "Basic Business Line",
+              "service_id": null,
+              "amount": 34.29,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 34.29,
+              "charge": 34.29
+            },
+            {
+              "description": "Federal End/User Access Recovery Charge",
+              "service_id": null,
+              "amount": 12.20,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 12.20,
+              "charge": 12.20
+            },
+            {
+              "description": "Dual Party Relay Service Charge",
+              "service_id": null,
+              "amount": 0.03,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 0.03,
+              "charge": 0.03
+            },
+            {
+              "description": "York County 911 Charge",
+              "service_id": null,
+              "amount": 0.50,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 0.50,
+              "charge": 0.50
+            }
+          ]
+        }
+      ],
+      "Internet Service Charges": [
+        {
+          "description": "Static IP",
+          "service_id": "41594780",
+          "amount": 14.95,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 1,
+          "unit_price": 14.95,
+          "charge": 14.95,
+          "children": []
+        },
+        {
+          "description": "Premium WiFi Kit",
+          "service_id": "41594780",
+          "amount": 0.0,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 1,
+          "unit_price": 0.0,
+          "charge": 0.0,
+          "children": []
+        },
+        {
+          "description": "Business Class HSI, Zipstream",
+          "service_id": "41594780",
+          "amount": 299.99,
+          "from_date": "16-07-2025",
+          "to_date": "15-08-2025",
+          "quantity": 1,
+          "unit_price": 299.99,
+          "charge": 299.99,
+          "children": []
+        }
+      ],
+      "Taxes and Surcharges": [
+        {
+          "description": "City License Tax",
+          "service_id": null,
+          "amount": 6.11,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": 6.11,
+          "charge": 6.11,
+          "children": []
+        },
+        {
+          "description": "Federal Tax",
+          "service_id": null,
+          "amount": 19.15,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": 19.15,
+          "charge": 19.15,
+          "children": []
+        },
+        {
+          "description": "Federal Universal Service Charge",
+          "service_id": null,
+          "amount": 34.81,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": 34.81,
+          "charge": 34.81,
+          "children": []
+        },
+        {
+          "description": "Sales Tax",
+          "service_id": null,
+          "amount": 37.56,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": 37.56,
+          "charge": 37.56,
+          "children": []
+        },
+        {
+          "description": "State Universal Service Charge",
+          "service_id": null,
+          "amount": 21.31,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": 21.31,
+          "charge": 21.31,
+          "children": []
+        }
+      ]
+    }
+  }
+  

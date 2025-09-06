@@ -1,0 +1,43 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Rogers",
+      "invoiceNumber": "239186318308_250615",
+      "accountNumber": "239186318308",
+      "billDate": "15-06-2025",
+      "dueDate": "08-07-2025",
+      "previousBalance": null,
+      "payments": -118.64,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": null,
+      "amountDue": 293.78,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "Taxes": [
+        {
+          "description": "HST ON",
+          "service_id": null,
+          "amount": 13.65,
+          "from_date": "12-06-2025",
+          "to_date": "11-07-2025",
+          "quantity": 1,
+          "unit_price": 13.65,
+          "charge": 13.65,
+          "children": []
+        }
+      ]
+    }
+  }
+  

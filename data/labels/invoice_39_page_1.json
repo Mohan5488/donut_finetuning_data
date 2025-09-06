@@ -1,0 +1,54 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Bell MTS",
+      "invoiceNumber": "X015554689250713",
+      "accountNumber": "34952549",
+      "billDate": "13-07-2025",
+      "dueDate": "01-08-2025",
+      "previousBalance": 100.18,
+      "payments": -100.18,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 100.18,
+      "amountDue": 100.18,
+      "remitToName": "Bell MTS",
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": "U-Haul AMI Strategies Store #029066",
+      "billToAddress": "125-17187 N Laurel Park Dr",
+      "billToAddress2": null,
+      "billToCity": "Livonia",
+      "billToState": "MI",
+      "billToZip": "48152"
+    },
+    "InvoiceData": {
+      "Summary": [
+        {
+          "description": "Recurring Charges",
+          "service_id": null,
+          "amount": 89.45,
+          "from_date": "13-07-2025",
+          "to_date": "12-08-2025",
+          "quantity": 1,
+          "unit_price": 89.45,
+          "charge": 89.45,
+          "children": []
+        },
+        {
+          "description": "Taxes",
+          "service_id": null,
+          "amount": 10.73,
+          "from_date": "13-07-2025",
+          "to_date": "12-08-2025",
+          "quantity": 1,
+          "unit_price": 10.73,
+          "charge": 10.73,
+          "children": []
+        }
+      ]
+    }
+  }
+  

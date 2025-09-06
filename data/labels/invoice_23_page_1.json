@@ -1,0 +1,102 @@
+{
+    "invoiceSummary": {
+      "vendorName": "DirecTV",
+      "invoiceNumber": "057770279X250711",
+      "accountNumber": "057770279",
+      "billDate": "11-07-2025",
+      "dueDate": "30-07-2025",
+      "previousBalance": 234.98,
+      "payments": -234.98,
+      "pastDue": 0.0,
+      "adjustments": -8.00,
+      "currentCharges": 242.98,
+      "amountDue": 234.98,
+      "remitToName": "DirecTV",
+      "remitToAddress1": "PO BOX 5006",
+      "remitToAddress2": null,
+      "remitToCity": "CAROL STREAM",
+      "remitToState": "IL",
+      "remitToZip": "601975006",
+      "billToName": "Signature Bank",
+      "billToAddress": "Fred Vargts",
+      "billToAddress2": "17187 N Laurel Park Dr Apt 125",
+      "billToCity": "Livonia",
+      "billToState": "MI",
+      "billToZip": "481522600"
+    },
+    "InvoiceData": {
+      "Current Charges for Service Period 07/10/25 - 08/09/25": [
+        {
+          "description": "Music Choice Premium Monthly",
+          "service_id": null,
+          "amount": 44.99,
+          "from_date": "10-07-2025",
+          "to_date": "09-08-2025",
+          "quantity": 1,
+          "unit_price": 44.99,
+          "charge": 44.99,
+          "children": []
+        },
+        {
+          "description": "Business XtraPack 2of2 Monthly",
+          "service_id": null,
+          "amount": 23.00,
+          "from_date": "10-07-2025",
+          "to_date": "09-08-2025",
+          "quantity": 1,
+          "unit_price": 23.00,
+          "charge": 23.00,
+          "children": []
+        },
+        {
+          "description": "Business Xtra Pack 1of2 Monthly",
+          "service_id": null,
+          "amount": 119.99,
+          "from_date": "10-07-2025",
+          "to_date": "09-08-2025",
+          "quantity": 1,
+          "unit_price": 119.99,
+          "charge": 119.99,
+          "children": []
+        },
+        {
+          "description": "TV Access Fee Quantity 6",
+          "service_id": null,
+          "amount": 48.00,
+          "from_date": "10-07-2025",
+          "to_date": "09-08-2025",
+          "quantity": 6,
+          "unit_price": 8.00,
+          "charge": 48.00,
+          "children": []
+        }
+      ],
+      "Fees": [
+        {
+          "description": "Regional Sports Fee",
+          "service_id": null,
+          "amount": 7.00,
+          "from_date": "11-07-2025",
+          "to_date": "11-07-2025",
+          "quantity": 1,
+          "unit_price": 7.00,
+          "charge": 7.00,
+          "children": []
+        }
+      ],
+      "Adjustments & Credits": [
+        {
+          "description": "Music Choice Premium Save $8 Off TV Access Fee",
+          "service_id": null,
+          "amount": -8.00,
+          "from_date": "10-07-2025",
+          "to_date": "09-08-2025",
+          "quantity": 1,
+          "unit_price": -8.00,
+          "charge": -8.00,
+          "children": []
+        }
+      ]
+    }
+  }
+  

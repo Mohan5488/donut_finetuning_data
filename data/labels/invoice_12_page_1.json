@@ -1,0 +1,42 @@
+{
+  "invoiceSummary": {
+    "vendorName": "ACC Business",
+    "invoiceNumber": "6953074019",
+    "accountNumber": "8310015011933",
+    "billDate": "01-07-2025",
+    "dueDate": "31-07-2025",
+    "previousBalance": 152.15,
+    "payments": 152.15,
+    "pastDue": 0.0,
+    "adjustments": 0.0,
+    "currentCharges": 75.00,
+    "amountDue": 75.00,
+    "remitToName": "ACC Business",
+    "remitToAddress1": "PO BOX 5019",
+    "remitToAddress2": null,
+    "remitToCity": "CAROL STREAM",
+    "remitToState": "IL",
+    "remitToZip": "60197-5019",
+    "billToName": "Brightview 1420 S ALLEC",
+    "billToAddress": "17187 N LAUREL PARK DR",
+    "billToAddress2": "SUITE 125",
+    "billToCity": "LIVONIA",
+    "billToState": "MI",
+    "billToZip": "48152"
+  },
+  "InvoiceData": {
+    "AT&T Internet for Business": [
+      {
+        "description": "Internet 100s",
+        "service_id": "318862025",
+        "amount": 75.00,
+        "from_date": "01-06-2025",
+        "to_date": "30-06-2025",
+        "quantity": 1,
+        "unit_price": 75.00,
+        "charge": 75.00,
+        "children": []
+      }
+    ]
+  }
+}

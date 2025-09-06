@@ -1,0 +1,78 @@
+{
+    "invoiceSummary": {
+      "vendorName": "PS Lightwave LLC",
+      "invoiceNumber": "40360",
+      "accountNumber": "100435",
+      "billDate": "10-07-2025",
+      "dueDate": "01-08-2025",
+      "previousBalance": 4985.41,
+      "payments": 0.0,
+      "pastDue": 4985.41,
+      "adjustments": 0.0,
+      "currentCharges": 4985.41,
+      "amountDue": 9970.82,
+      "remitToName": "PS Lightwave LLC",
+      "remitToAddress1": "Dept# 42385, PO Box 650823",
+      "remitToAddress2": null,
+      "remitToCity": "Dallas",
+      "remitToState": "TX",
+      "remitToZip": "75265",
+      "billToName": "SPLENDORA ISD",
+      "billToAddress": "ATTN: JULIE BOLSTER, 23419 FM 2090",
+      "billToAddress2": null,
+      "billToCity": "Splendora",
+      "billToState": "TX",
+      "billToZip": "77372"
+    },
+    "InvoiceData": {
+      "Recurring Charges": [
+        {
+          "description": "IP 10 GB DEDICATED (Circuit ID: 2853)",
+          "service_id": "2853",
+          "amount": 3509.00,
+          "from_date": "01-08-2025",
+          "to_date": "31-08-2025",
+          "quantity": 1,
+          "unit_price": 3509.00,
+          "charge": 3509.00,
+          "children": []
+        },
+        {
+          "description": "EPL 10 GB DEDICATED (Circuit ID: 324, Loc A: 23419 FM 2090, Loc Z: 26175 FM 2090 Rd)",
+          "service_id": "324",
+          "amount": 1400.00,
+          "from_date": "01-08-2025",
+          "to_date": "31-08-2025",
+          "quantity": 1,
+          "unit_price": 1400.00,
+          "charge": 1400.00,
+          "children": []
+        }
+      ],
+      "Taxes and Surcharges": [
+        {
+          "description": "FEDERAL COST RECOVERY FEE",
+          "service_id": null,
+          "amount": 27.32,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": 27.32,
+          "charge": 27.32,
+          "children": []
+        },
+        {
+          "description": "REGULATORY RECOVERY FEE",
+          "service_id": null,
+          "amount": 49.09,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": 49.09,
+          "charge": 49.09,
+          "children": []
+        }
+      ]
+    }
+  }
+  

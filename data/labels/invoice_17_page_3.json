@@ -1,0 +1,180 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Globalstar",
+      "invoiceNumber": "000000094981735",
+      "accountNumber": "AC00541553",
+      "billDate": "16-07-2025",
+      "dueDate": "27-07-2025",
+      "previousBalance": 554.62,
+      "payments": -554.62,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 449.94,
+      "amountDue": 553.55,
+      "remitToName": "Globalstar",
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "Account Charges Summary": [
+        {
+          "description": "Payment - Credit Card 06/25/2025",
+          "service_id": null,
+          "amount": -554.62,
+          "from_date": "25-06-2025",
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": null,
+          "charge": -554.62,
+          "children": []
+        },
+        {
+          "description": "Unlimited_Free_Phone_Monthly (MDN: 12543814445)",
+          "service_id": "12543814445",
+          "amount": 74.99,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 74.99,
+          "children": []
+        },
+        {
+          "description": "Unlimited_Free_Phone_Monthly (MDN: 18632032292)",
+          "service_id": "18632032292",
+          "amount": 74.99,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 74.99,
+          "children": []
+        },
+        {
+          "description": "Unlimited_Free_Phone_Monthly (MDN: 18632032451)",
+          "service_id": "18632032451",
+          "amount": 74.99,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 74.99,
+          "children": []
+        },
+        {
+          "description": "Unlimited_Free_Phone_Monthly (MDN: 18632032574)",
+          "service_id": "18632032574",
+          "amount": 74.99,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 74.99,
+          "children": []
+        },
+        {
+          "description": "Unlimited_Free_Phone_Monthly (MDN: 18632032686)",
+          "service_id": "18632032686",
+          "amount": 74.99,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 74.99,
+          "children": []
+        },
+        {
+          "description": "Unlimited_Free_Phone_Monthly (MDN: 19079281439)",
+          "service_id": "19079281439",
+          "amount": 74.99,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 74.99,
+          "children": []
+        },
+        {
+            "description": "Taxes & Surcharges",
+            "service_id": null,
+            "amount": 103.61,
+            "from_date": null,
+            "to_date": null,
+            "quantity": 0,
+            "unit_price": null,
+            "charge": 103.61,
+            "children": [
+              {
+                "description": "E911 (Wireless) (1 to 10 Lines)",
+                "service_id": null,
+                "amount": 2.52,
+                "from_date": null,
+                "to_date": null,
+                "quantity": 1,
+                "unit_price": 2.52,
+                "charge": 2.52
+              },
+              {
+                "description": "FCC Regulatory Fee (Wireless)",
+                "service_id": null,
+                "amount": 0.08,
+                "from_date": null,
+                "to_date": null,
+                "quantity": 1,
+                "unit_price": 0.08,
+                "charge": 0.08
+              },
+              {
+                "description": "Fed USF Cellular",
+                "service_id": null,
+                "amount": 60.09,
+                "from_date": null,
+                "to_date": null,
+                "quantity": 1,
+                "unit_price": 60.09,
+                "charge": 60.09
+              },
+              {
+                "description": "State 911 Charge (Wireless) (1 to 10 Lines)",
+                "service_id": null,
+                "amount": 1.50,
+                "from_date": null,
+                "to_date": null,
+                "quantity": 1,
+                "unit_price": 1.50,
+                "charge": 1.50
+              },
+              {
+                "description": "Telecommunications Relay Surcharge (Cellular)",
+                "service_id": null,
+                "amount": 8.82,
+                "from_date": null,
+                "to_date": null,
+                "quantity": 1,
+                "unit_price": 8.82,
+                "charge": 8.82
+              },
+              {
+                "description": "Telecommunications Use Tax",
+                "service_id": null,
+                "amount": 30.60,
+                "from_date": null,
+                "to_date": null,
+                "quantity": 1,
+                "unit_price": 30.60,
+                "charge": 30.60
+              }
+            ]
+          }
+        ]
+      }
+    }

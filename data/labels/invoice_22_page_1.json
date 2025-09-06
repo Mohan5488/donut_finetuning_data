@@ -1,0 +1,100 @@
+{
+    "invoiceSummary": {
+      "vendorName": "DirecTV",
+      "invoiceNumber": "013332498X250716",
+      "accountNumber": "013332498",
+      "billDate": "16-07-2025",
+      "dueDate": "04-08-2025",
+      "previousBalance": 249.98,
+      "payments": -249.98,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 118.99,
+      "amountDue": 118.99,
+      "remitToName": "DirecTV",
+      "remitToAddress1": "PO BOX 5006",
+      "remitToAddress2": null,
+      "remitToCity": "CAROL STREAM",
+      "remitToState": "IL",
+      "remitToZip": "601975006",
+      "billToName": "ATTN:Accounts payables",
+      "billToAddress": "17187 N Laurel Park Dr Apt 125",
+      "billToAddress2": null,
+      "billToCity": "Livonia",
+      "billToState": "MI",
+      "billToZip": "481522600"
+    },
+    "InvoiceData": {
+      "Current Charges for Service Period 07/15/25 - 08/14/25": [
+        {
+          "description": "Business XtraPack 2of2 Annual",
+          "service_id": null,
+          "amount": 0.0,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 1,
+          "unit_price": 0.0,
+          "charge": 0.0,
+          "children": []
+        },
+        {
+          "description": "Business Xtra Pack 1of2 Annual",
+          "service_id": null,
+          "amount": 0.0,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 1,
+          "unit_price": 0.0,
+          "charge": 0.0,
+          "children": []
+        },
+        {
+          "description": "DIRECTV Protection Plan Monthly",
+          "service_id": null,
+          "amount": 11.99,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 1,
+          "unit_price": 11.99,
+          "charge": 11.99,
+          "children": []
+        },
+        {
+          "description": "TV Access Fee Quantity 13+",
+          "service_id": null,
+          "amount": 100.00,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 13,
+          "unit_price": 7.69,
+          "charge": 100.00,
+          "children": []
+        },
+        {
+          "description": "Equipment Agreement 24 months",
+          "service_id": null,
+          "amount": 0.0,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 1,
+          "unit_price": 0.0,
+          "charge": 0.0,
+          "children": []
+        }
+      ],
+      "Fees": [
+        {
+          "description": "Regional Sports Fee",
+          "service_id": null,
+          "amount": 7.00,
+          "from_date": "16-07-2025",
+          "to_date": "16-07-2025",
+          "quantity": 1,
+          "unit_price": 7.00,
+          "charge": 7.00,
+          "children": []
+        }
+      ]
+    }
+  }
+  

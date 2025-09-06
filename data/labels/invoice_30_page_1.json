@@ -1,0 +1,29 @@
+{
+    "invoiceSummary": {
+      "vendorName": "C Spire",
+      "invoiceNumber": "0000685889-87",
+      "accountNumber": "0000685889",
+      "billDate": "14-07-2025",
+      "dueDate": "13-08-2025",
+      "previousBalance": 8105.99,
+      "payments": -8105.99,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 7820.83,
+      "amountDue": 7820.83,
+      "remitToName": "C Spire",
+      "remitToAddress1": "PO Box 748168",
+      "remitToAddress2": null,
+      "remitToCity": "Atlanta",
+      "remitToState": "GA",
+      "remitToZip": "303748168",
+      "billToName": "Rain For Rent C/O Warner Telcomm",
+      "billToAddress": "17187 N Laurel Park Dr Ste 125",
+      "billToAddress2": "Justin Henderson",
+      "billToCity": "Livonia",
+      "billToState": "MI",
+      "billToZip": "750830000"
+    },
+    "InvoiceData": {}
+  }
+  

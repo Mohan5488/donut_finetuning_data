@@ -1,0 +1,98 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Access Communications",
+      "invoiceNumber": "4877916_2507",
+      "accountNumber": "4877916",
+      "billDate": "15-07-2025",
+      "dueDate": "10-08-2025",
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 120.94,
+      "amountDue": null,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "Internet Services": [
+        {
+          "description": "Internet Services (Service Period)",
+          "service_id": null,
+          "amount": 108.95,
+          "from_date": "15-08-2025",
+          "to_date": "14-09-2025",
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 108.95,
+          "children": [
+            {
+              "description": "HYPERSPEED 175",
+              "service_id": null,
+              "amount": 93.95,
+              "from_date": "15-08-2025",
+              "to_date": "14-09-2025",
+              "quantity": 1,
+              "unit_price": 93.95,
+              "charge": 93.95
+            },
+            {
+              "description": "INTERNET BUSINESS SERVICE",
+              "service_id": null,
+              "amount": 15.00,
+              "from_date": "15-08-2025",
+              "to_date": "14-09-2025",
+              "quantity": 1,
+              "unit_price": 15.00,
+              "charge": 15.00
+            }
+          ]
+        }
+      ],
+      "Taxes and Fees": [
+        {
+          "description": "Taxes and Fees Total",
+          "service_id": null,
+          "amount": 11.99,
+          "from_date": "15-08-2025",
+          "to_date": "14-09-2025",
+          "quantity": 0,
+          "unit_price": 11.99,
+          "charge": 11.99,
+          "children": [
+            {
+              "description": "PST Registration #0999334",
+              "service_id": null,
+              "amount": 6.54,
+              "from_date": "15-08-2025",
+              "to_date": "14-09-2025",
+              "quantity": 1,
+              "unit_price": 6.54,
+              "charge": 6.54
+            },
+            {
+              "description": "GST Registration #R104452073",
+              "service_id": null,
+              "amount": 5.45,
+              "from_date": "15-08-2025",
+              "to_date": "14-09-2025",
+              "quantity": 1,
+              "unit_price": 5.45,
+              "charge": 5.45
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

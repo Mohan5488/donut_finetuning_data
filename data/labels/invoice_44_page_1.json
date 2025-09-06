@@ -1,0 +1,43 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Rogers",
+      "invoiceNumber": "239178963909_250716",
+      "accountNumber": "239178963909",
+      "billDate": "16-07-2025",
+      "dueDate": "09-08-2025",
+      "previousBalance": 118.64,
+      "payments": -118.64,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 130.31,
+      "amountDue": 130.31,
+      "remitToName": "Rogers",
+      "remitToAddress1": "PO Box 4100",
+      "remitToAddress2": null,
+      "remitToCity": "Don Mills",
+      "remitToState": "ON",
+      "remitToZip": "M3C 3N9",
+      "billToName": "U-Haul Kingston - 848076",
+      "billToAddress": "239 Station St",
+      "billToAddress2": null,
+      "billToCity": "Ajaz",
+      "billToState": "ON",
+      "billToZip": "L1S 1S3"
+    },
+    "InvoiceData": {
+      "Summary": [
+        {
+          "description": "Internet Services",
+          "service_id": null,
+          "amount": 130.31,
+          "from_date": "13-07-2025",
+          "to_date": "12-08-2025",
+          "quantity": 0,
+          "unit_price": 130.31,
+          "charge": 130.31,
+          "children": []
+        }
+      ]
+    }
+  }
+  

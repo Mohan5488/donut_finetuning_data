@@ -1,0 +1,222 @@
+{
+  "invoiceSummary": {
+    "vendorName": "AT&T",
+    "invoiceNumber": "512A310045833_0725",
+    "accountNumber": "512A3100458337",
+    "billDate": "11-07-2025",
+    "dueDate": "04-08-2025",
+    "previousBalance": 14213.23,
+    "payments": -7057.12,
+    "pastDue": 7156.11,
+    "adjustments": 0.0,
+    "currentCharges": 6827.09,
+    "amountDue": 13983.20,
+    "remitToName": "AT&T",
+    "remitToAddress1": "PO BOX 5001",
+    "remitToAddress2": null,
+    "remitToCity": "CAROL STREAM",
+    "remitToState": "IL",
+    "remitToZip": "601975001",
+    "billToName": "CITY OF HILLSBORO",
+    "billToAddress": "PO BOX 568",
+    "billToAddress2": null,
+    "billToCity": "HILLSBORO",
+    "billToState": "TX",
+    "billToZip": "766450568"
+  },
+  "InvoiceData": {
+    "Additions and Changes to Service": [
+      {
+        "description": "Credit for service outage from Jun 14 thru Jun 16 for",
+        "service_id": "2545828406",
+        "amount": -7.67,
+        "from_date": "14-06-2025",
+        "to_date": "16-06-2025",
+        "quantity": 0,
+        "unit_price": null,
+        "charge": -7.67,
+        "children": []
+      }
+    ],
+    "Government Fees and Taxes": [
+      {
+        "description": "Federal",
+        "service_id": null,
+        "amount": 0.0,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 0.0,
+        "children": []
+      },
+      {
+        "description": "State and Local",
+        "service_id": null,
+        "amount": 0.0,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 0.0,
+        "children": []
+      }
+    ],
+    "Consolidated Summary of Current Charges": [
+      {
+        "description": "254 580-2550",
+        "service_id": "2545802550",
+        "amount": 245.26,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 245.26,
+        "children": []
+      },
+      {
+        "description": "254 580-9270",
+        "service_id": "2545809270",
+        "amount": 392.57,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 392.57,
+        "children": []
+      },
+      {
+        "description": "254 582-0112",
+        "service_id": "2545820112",
+        "amount": 1775.0,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 1775.0,
+        "children": []
+      },
+      {
+        "description": "254 582-2252",
+        "service_id": "2545822252",
+        "amount": 141.38,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 141.38,
+        "children": []
+      },
+      {
+        "description": "254 582-2401",
+        "service_id": "2545822401",
+        "amount": 226.72,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 226.72,
+        "children": []
+      },
+      {
+        "description": "254 582-3478",
+        "service_id": "2545823478",
+        "amount": 994.46,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 994.46,
+        "children": []
+      },
+      {
+        "description": "254 582-3638",
+        "service_id": "2545823638",
+        "amount": 49.17,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 49.17,
+        "children": []
+      },
+      {
+        "description": "254 582-3731",
+        "service_id": "2545823731",
+        "amount": 54.18,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 54.18,
+        "children": []
+      },
+      {
+        "description": "254 582-5499",
+        "service_id": "2545825499",
+        "amount": 212.42,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 212.42,
+        "children": []
+      },
+      {
+        "description": "254 582-5873",
+        "service_id": "2545825873",
+        "amount": 391.38,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 391.38,
+        "children": []
+      },
+      {
+        "description": "254 582-7385",
+        "service_id": "2545827385",
+        "amount": 247.17,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 247.17,
+        "children": []
+      },
+      {
+        "description": "254 582-7537",
+        "service_id": "2545827537",
+        "amount": 193.75,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 193.75,
+        "children": []
+      },
+      {
+        "description": "254 582-8406",
+        "service_id": "2545828406",
+        "amount": 784.68,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 784.68,
+        "children": []
+      },
+      {
+        "description": "254 582-9634",
+        "service_id": "2545829634",
+        "amount": 1126.62,
+        "from_date": null,
+        "to_date": null,
+        "quantity": 0,
+        "unit_price": null,
+        "charge": 1126.62,
+        "children": []
+      }
+    ]
+  }
+}

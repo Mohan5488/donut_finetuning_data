@@ -1,0 +1,29 @@
+{
+    "invoiceSummary": {
+      "vendorName": "TouchTone Communications",
+      "invoiceNumber": "3707179",
+      "accountNumber": "1100009742",
+      "billDate": "01-07-2025",
+      "dueDate": "25-07-2025",
+      "previousBalance": 171.28,
+      "payments": -171.28,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 170.82,
+      "amountDue": 170.82,
+      "remitToName": "TouchTone Communications",
+      "remitToAddress1": "P.O. BOX 780593",
+      "remitToAddress2": null,
+      "remitToCity": "Philadelphia",
+      "remitToState": "PA",
+      "remitToZip": "191780593",
+      "billToName": "Practice Plus",
+      "billToAddress": "11001 Exec Ctr Dr Ste 200",
+      "billToAddress2": null,
+      "billToCity": "Little Rock",
+      "billToState": "AR",
+      "billToZip": "722114393"
+    },
+    "InvoiceData": {}
+  }
+  

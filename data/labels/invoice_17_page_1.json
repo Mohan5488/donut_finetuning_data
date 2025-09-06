@@ -1,0 +1,54 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Globalstar",
+      "invoiceNumber": "000000094981735",
+      "accountNumber": "AC00541553",
+      "billDate": "16-07-2025",
+      "dueDate": "27-07-2025",
+      "previousBalance": 554.62,
+      "payments": -554.62,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 449.94,
+      "amountDue": 553.55,
+      "remitToName": "Globalstar",
+      "remitToAddress1": "1351 Holiday Square Blvd 500",
+      "remitToAddress2": null,
+      "remitToCity": "Covington",
+      "remitToState": "LA",
+      "remitToZip": "70433",
+      "billToName": "Dt Midstream Holdings, Llc",
+      "billToAddress": "Woodward Ave Fl 29",
+      "billToAddress2": null,
+      "billToCity": "Detroit",
+      "billToState": "MI",
+      "billToZip": "482263416"
+    },
+    "InvoiceData": {
+      "Invoice Summary": [
+        {
+          "description": "Monthly Activity - 6 Service(s)",
+          "service_id": null,
+          "amount": 449.94,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 449.94,
+          "children": []
+        },
+        {
+          "description": "Taxes and Surcharges",
+          "service_id": null,
+          "amount": 103.61,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 103.61,
+          "children": []
+        }
+      ]
+    }
+  }
+  

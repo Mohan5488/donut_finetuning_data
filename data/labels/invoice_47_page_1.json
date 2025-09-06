@@ -1,0 +1,54 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Shentel",
+      "invoiceNumber": "001",
+      "accountNumber": "346241",
+      "billDate": "15-06-2025",
+      "dueDate": "09-07-2025",
+      "previousBalance": 17.29,
+      "payments": -17.29,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 17.29,
+      "amountDue": 17.29,
+      "remitToName": "Shentel",
+      "remitToAddress1": "PO BOX 740573",
+      "remitToAddress2": null,
+      "remitToCity": "CINCINNATI",
+      "remitToState": "OH",
+      "remitToZip": "452740573",
+      "billToName": "AMI STRATEGIES (STORE ID #020722)",
+      "billToAddress": "17187 N LAUREL PARK DR STE 125",
+      "billToAddress2": null,
+      "billToCity": "LIVONIA",
+      "billToState": "MI",
+      "billToZip": "481522600"
+    },
+    "InvoiceData": {
+      "Current Charges": [
+        {
+          "description": "Remote Call Forward",
+          "service_id": null,
+          "amount": 16.0,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": null,
+          "charge": 16.0,
+          "children": []
+        },
+        {
+          "description": "Taxes & Surcharges",
+          "service_id": null,
+          "amount": 1.29,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": 1.29,
+          "charge": 1.29,
+          "children": []
+        }
+      ]
+    }
+  }
+  

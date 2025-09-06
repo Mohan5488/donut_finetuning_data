@@ -1,0 +1,54 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Bell Canada",
+      "invoiceNumber": "X010447435250713",
+      "accountNumber": "5143235922",
+      "billDate": "13-07-2025",
+      "dueDate": "13-08-2025",
+      "previousBalance": null,
+      "payments": -477.42,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": null,
+      "amountDue": null,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "Payments": [
+        {
+          "description": "Payment received 06-17-2025",
+          "service_id": null,
+          "amount": -238.71,
+          "from_date": "17-06-2025",
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": -238.71,
+          "charge": -238.71,
+          "children": []
+        },
+        {
+          "description": "Payment received 07-07-2025",
+          "service_id": null,
+          "amount": -238.71,
+          "from_date": "07-07-2025",
+          "to_date": null,
+          "quantity": 1,
+          "unit_price": -238.71,
+          "charge": -238.71,
+          "children": []
+        }
+      ]
+    }
+  }
+  

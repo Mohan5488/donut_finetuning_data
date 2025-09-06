@@ -1,0 +1,145 @@
+{
+    "invoiceSummary": {
+      "vendorName": "CommandLink",
+      "invoiceNumber": "117375",
+      "accountNumber": "5561",
+      "billDate": "01-07-2025",
+      "dueDate": "21-07-2025",
+      "previousBalance": 4060.49,
+      "payments": 0.0,
+      "pastDue": 4060.49,
+      "adjustments": 0.0,
+      "currentCharges": 2233.36,
+      "amountDue": 6293.85,
+      "remitToName": "CommandLink",
+      "remitToAddress1": "PO Box 200756",
+      "remitToAddress2": null,
+      "remitToCity": "Dallas",
+      "remitToState": "TX",
+      "remitToZip": "753200756",
+      "billToName": "Radiology Partners",
+      "billToAddress": "2330 Utah Ave Ste 200",
+      "billToAddress2": null,
+      "billToCity": "El Segundo",
+      "billToState": "CA",
+      "billToZip": "90245"
+    },
+    "InvoiceData": {
+      "DR. NADEEM IQBAL (CRC Central) | 161 Buckthorn Dr, Baden, PA 15005": [
+        {
+          "description": "Bandwidth|Link 300x20 Cable Internet Access (Internet Access Circuit)",
+          "service_id": "3305",
+          "amount": 275.63,
+          "from_date": "01-07-2025",
+          "to_date": "31-07-2025",
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 275.63,
+          "children": [
+            {
+              "description": "Monthly Charge",
+              "service_id": null,
+              "amount": 245.00,
+              "from_date": "01-07-2025",
+              "to_date": "31-07-2025",
+              "quantity": 1,
+              "unit_price": 245.00,
+              "charge": 245.00
+            },
+            {
+              "description": "Regulatory Recovery Surcharge (RRS)",
+              "service_id": null,
+              "amount": 30.63,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 30.63,
+              "charge": 30.63
+            }
+          ]
+        }
+      ],
+      "BLESSING HOSPITAL (GIMA) | 1005 Broadway St, Quincy, IL 62301": [
+        {
+          "description": "Bandwidth|Link 250 Mbps Adams Fiber",
+          "service_id": "73920",
+          "amount": 945.00,
+          "from_date": "01-07-2025",
+          "to_date": "31-07-2025",
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 945.00,
+          "children": [
+            {
+              "description": "Monthly Charge",
+              "service_id": null,
+              "amount": 840.00,
+              "from_date": "01-07-2025",
+              "to_date": "31-07-2025",
+              "quantity": 1,
+              "unit_price": 840.00,
+              "charge": 840.00
+            },
+            {
+              "description": "Regulatory Recovery Surcharge (RRS)",
+              "service_id": null,
+              "amount": 105.00,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 105.00,
+              "charge": 105.00
+            }
+          ]
+        }
+      ],
+      "DR. ADAM YOUNG (CRC Central) | 7200 Oxford Loop N, New Albany, OH 43054": [
+        {
+          "description": "End of Service - Prorated for 2 Days - Bandwidth|Link 200Mx10M (Static) Internet Access Circuit",
+          "service_id": null,
+          "amount": 15.00,
+          "from_date": "01-07-2025",
+          "to_date": "02-07-2025",
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 15.00,
+          "children": [
+            {
+              "description": "Prorated Service",
+              "service_id": null,
+              "amount": 13.33,
+              "from_date": "01-07-2025",
+              "to_date": "02-07-2025",
+              "quantity": 1,
+              "unit_price": 13.33,
+              "charge": 13.33
+            },
+            {
+              "description": "Regulatory Recovery Surcharge (RRS)",
+              "service_id": null,
+              "amount": 1.67,
+              "from_date": null,
+              "to_date": null,
+              "quantity": 1,
+              "unit_price": 1.67,
+              "charge": 1.67
+            }
+          ]
+        }
+      ],
+      "Account Level Charges": [
+        {
+          "description": "Late Fee on Account Balance 4060.49",
+          "service_id": null,
+          "amount": 60.91,
+          "from_date": "01-07-2025",
+          "to_date": "01-07-2025",
+          "quantity": 1,
+          "unit_price": 60.91,
+          "charge": 60.91,
+          "children": []
+        }
+      ]
+    }
+  }
+  

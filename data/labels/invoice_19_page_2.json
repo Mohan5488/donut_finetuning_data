@@ -1,0 +1,91 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Singtel",
+      "invoiceNumber": "62357642_0725",
+      "accountNumber": "62357642",
+      "billDate": "09-07-2025",
+      "dueDate": "08-08-2025",
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 4265.86,
+      "amountDue": null,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "IX GATEWAY NO. 0000048442": [
+        {
+          "description": "UIAS Burstable 10Gbps Access (SNG) (2Gbps)",
+          "service_id": "0000048442",
+          "amount": 1663.82,
+          "from_date": "01-07-2025",
+          "to_date": "31-07-2025",
+          "quantity": 0,
+          "unit_price": 1663.82,
+          "charge": 1663.82,
+          "children": []
+        },
+        {
+          "description": "STIX Burstable Access Usage Jun 2025 (369 Mbps)",
+          "service_id": "0000048442",
+          "amount": 0.0,
+          "from_date": "01-06-2025",
+          "to_date": "30-06-2025",
+          "quantity": 0,
+          "unit_price": 0.0,
+          "charge": 0.0,
+          "children": []
+        }
+      ],
+      "LOCAL DATA SERVICE NO. GW0690102": [
+        {
+          "description": "Gigawave IGA - 10Gbps GigE",
+          "service_id": "GW0690102",
+          "amount": 2602.04,
+          "from_date": "01-07-2025",
+          "to_date": "31-07-2025",
+          "quantity": 0,
+          "unit_price": 2602.04,
+          "charge": 2602.04,
+          "children": []
+        }
+      ],
+      "GST": [
+        {
+          "description": "Current Taxable Charges of USD0.00 @ 9%",
+          "service_id": null,
+          "amount": 0.0,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 0.0,
+          "charge": 0.0,
+          "children": []
+        },
+        {
+          "description": "Zero Rated Charges of USD4,265.86 @ 0%",
+          "service_id": null,
+          "amount": 0.0,
+          "from_date": null,
+          "to_date": null,
+          "quantity": 0,
+          "unit_price": 0.0,
+          "charge": 0.0,
+          "children": []
+        }
+      ]
+    }
+  }
+  

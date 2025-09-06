@@ -1,0 +1,164 @@
+{
+    "invoiceSummary": {
+      "vendorName": "Bell Canada",
+      "invoiceNumber": "X010447435250713",
+      "accountNumber": "5143235922",
+      "billDate": "13-07-2025",
+      "dueDate": "13-08-2025",
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 207.61,
+      "amountDue": null,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "Recurring Charges (Current charge details)": [
+        {
+          "description": "Voice - Monthly Services",
+          "service_id": null,
+          "amount": 207.61,
+          "from_date": "13-07-2025",
+          "to_date": "12-08-2025",
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 207.61,
+          "children": [
+            {
+              "description": "9-1-1 emergency service",
+              "service_id": null,
+              "amount": 0.17,
+              "from_date": "13-07-2025",
+              "to_date": "12-08-2025",
+              "quantity": 1,
+              "unit_price": 0.17,
+              "charge": 0.17
+            },
+            {
+              "description": "911 Mun tax-per line flat rate",
+              "service_id": null,
+              "amount": 0.54,
+              "from_date": "13-07-2025",
+              "to_date": "12-08-2025",
+              "quantity": 1,
+              "unit_price": 0.54,
+              "charge": 0.54
+            },
+            {
+              "description": "Alarm jack",
+              "service_id": null,
+              "amount": 0.0,
+              "from_date": "13-07-2025",
+              "to_date": "12-08-2025",
+              "quantity": 1,
+              "unit_price": 0.0,
+              "charge": 0.0
+            },
+            {
+              "description": "Bus line non-contracted - Bell relay",
+              "service_id": null,
+              "amount": 198.55,
+              "from_date": "13-07-2025",
+              "to_date": "12-08-2025",
+              "quantity": 1,
+              "unit_price": 198.55,
+              "charge": 198.55
+            },
+            {
+              "description": "Business line",
+              "service_id": null,
+              "amount": 0.0,
+              "from_date": "13-07-2025",
+              "to_date": "12-08-2025",
+              "quantity": 1,
+              "unit_price": 0.0,
+              "charge": 0.0
+            },
+            {
+              "description": "Credit Long distance",
+              "service_id": null,
+              "amount": -9.95,
+              "from_date": "13-07-2025",
+              "to_date": "12-08-2025",
+              "quantity": 1,
+              "unit_price": -9.95,
+              "charge": -9.95
+            },
+            {
+              "description": "LDSolutions - billing node",
+              "service_id": null,
+              "amount": 0.0,
+              "from_date": "13-07-2025",
+              "to_date": "12-08-2025",
+              "quantity": 1,
+              "unit_price": 0.0,
+              "charge": 0.0
+            },
+            {
+              "description": "LDSolutions - switched access",
+              "service_id": null,
+              "amount": 0.0,
+              "from_date": "13-07-2025",
+              "to_date": "12-08-2025",
+              "quantity": 1,
+              "unit_price": 0.0,
+              "charge": 0.0
+            },
+            {
+              "description": "Long distance network charge",
+              "service_id": null,
+              "amount": 9.95,
+              "from_date": "13-07-2025",
+              "to_date": "12-08-2025",
+              "quantity": 1,
+              "unit_price": 9.95,
+              "charge": 9.95
+            },
+            {
+              "description": "Non published listing svce - business",
+              "service_id": null,
+              "amount": 8.35,
+              "from_date": "13-07-2025",
+              "to_date": "12-08-2025",
+              "quantity": 1,
+              "unit_price": 8.35,
+              "charge": 8.35
+            },
+            {
+              "description": "Telemarketing exclusion code",
+              "service_id": null,
+              "amount": 0.0,
+              "from_date": "13-07-2025",
+              "to_date": "12-08-2025",
+              "quantity": 1,
+              "unit_price": 0.0,
+              "charge": 0.0
+            },
+            {
+              "description": "Terms of serv mailout suppression",
+              "service_id": null,
+              "amount": 0.0,
+              "from_date": "13-07-2025",
+              "to_date": "12-08-2025",
+              "quantity": 1,
+              "unit_price": 0.0,
+              "charge": 0.0
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

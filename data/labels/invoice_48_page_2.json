@@ -1,0 +1,175 @@
+{
+    "invoiceSummary": {
+      "vendorName": "AT&T",
+      "invoiceNumber": "231347088507",
+      "accountNumber": "23134708859687",
+      "billDate": "10-07-2025",
+      "dueDate": "09-08-2025",
+      "previousBalance": null,
+      "payments": null,
+      "pastDue": null,
+      "adjustments": null,
+      "currentCharges": 1293.06,
+      "amountDue": -1356.13,
+      "remitToName": null,
+      "remitToAddress1": null,
+      "remitToAddress2": null,
+      "remitToCity": null,
+      "remitToState": null,
+      "remitToZip": null,
+      "billToName": null,
+      "billToAddress": null,
+      "billToAddress2": null,
+      "billToCity": null,
+      "billToState": null,
+      "billToZip": null
+    },
+    "InvoiceData": {
+      "Monthly Service Charges": [
+        {
+          "description": "Bus Local Calling Unlimited A (231-347-5161)",
+          "service_id": "2313475161",
+          "amount": 110.00,
+          "from_date": "10-07-2025",
+          "to_date": "09-08-2025",
+          "quantity": 1,
+          "unit_price": 110.00,
+          "charge": 110.00,
+          "children": []
+        },
+        {
+          "description": "Federal Access Charge (231-347-5161)",
+          "service_id": "2313475161",
+          "amount": 11.64,
+          "from_date": "10-07-2025",
+          "to_date": "09-08-2025",
+          "quantity": 1,
+          "unit_price": 11.64,
+          "charge": 11.64,
+          "children": []
+        },
+        {
+          "description": "Bus Local Calling Unlimited A (231-347-5206)",
+          "service_id": "2313475206",
+          "amount": 110.00,
+          "from_date": "10-07-2025",
+          "to_date": "09-08-2025",
+          "quantity": 1,
+          "unit_price": 110.00,
+          "charge": 110.00,
+          "children": []
+        },
+        {
+          "description": "Federal Access Charge (231-347-5206)",
+          "service_id": "2313475206",
+          "amount": 11.64,
+          "from_date": "10-07-2025",
+          "to_date": "09-08-2025",
+          "quantity": 1,
+          "unit_price": 11.64,
+          "charge": 11.64,
+          "children": []
+        },
+        {
+          "description": "Bus Local Calling Unlimited A (231-347-5423)",
+          "service_id": "2313475423",
+          "amount": 110.00,
+          "from_date": "10-07-2025",
+          "to_date": "09-08-2025",
+          "quantity": 1,
+          "unit_price": 110.00,
+          "charge": 110.00,
+          "children": []
+        },
+        {
+          "description": "Federal Access Charge (231-347-5423)",
+          "service_id": "2313475423",
+          "amount": 11.64,
+          "from_date": "10-07-2025",
+          "to_date": "09-08-2025",
+          "quantity": 1,
+          "unit_price": 11.64,
+          "charge": 11.64,
+          "children": []
+        },
+        {
+            "description": "Bus Local Calling Unlimited A (231-347-5569)",
+            "service_id": "2313475569",
+            "amount": 110.00,
+            "from_date": "10-07-2025",
+            "to_date": "09-08-2025",
+            "quantity": 1,
+            "unit_price": 110.00,
+            "charge": 110.00,
+            "children": []
+          },
+          {
+            "description": "Federal Access Charge (231-347-5569)",
+            "service_id": "2313475569",
+            "amount": 11.64,
+            "from_date": "10-07-2025",
+            "to_date": "09-08-2025",
+            "quantity": 1,
+            "unit_price": 11.64,
+            "charge": 11.64,
+            "children": []
+          },
+          {
+            "description": "Bus Local Calling Unlimited A (231-347-7199)",
+            "service_id": "2313477199",
+            "amount": 110.00,
+            "from_date": "10-07-2025",
+            "to_date": "09-08-2025",
+            "quantity": 1,
+            "unit_price": 110.00,
+            "charge": 110.00,
+            "children": []
+          },
+          {
+            "description": "Federal Access Charge (231-347-7199)",
+            "service_id": "2313477199",
+            "amount": 11.64,
+            "from_date": "10-07-2025",
+            "to_date": "09-08-2025",
+            "quantity": 1,
+            "unit_price": 11.64,
+            "charge": 11.64,
+            "children": []
+          },
+          {
+            "description": "Bus Local Calling Unlimited A (231-347-3748)",
+            "service_id": "2313473748",
+            "amount": 110.00,
+            "from_date": "10-07-2025",
+            "to_date": "09-08-2025",
+            "quantity": 1,
+            "unit_price": 110.00,
+            "charge": 110.00,
+            "children": []
+          },
+          {
+            "description": "Federal Access Charge (231-347-3748)",
+            "service_id": "2313473748",
+            "amount": 11.64,
+            "from_date": "10-07-2025",
+            "to_date": "09-08-2025",
+            "quantity": 1,
+            "unit_price": 11.64,
+            "charge": 11.64,
+            "children": []
+          },
+          {
+            "description": "Federal Access Charge (231-347-3776)",
+            "service_id": "2313473776",
+            "amount": 110.00,
+            "from_date": "10-07-2025",
+            "to_date": "09-08-2025",
+            "quantity": 1,
+            "unit_price": 110.0,
+            "charge": 110.0,
+            "children": []
+          }
+      ]
+    }
+  }
+  

@@ -1,0 +1,76 @@
+{
+    "invoiceSummary": {
+      "vendorName": "FARMERS TELECOMMUNICATIONS CORPORATION",
+      "invoiceNumber": "4916200_2507",
+      "accountNumber": "4916200",
+      "billDate": "15-07-2025",
+      "dueDate": "05-08-2025",
+      "previousBalance": 2924.03,
+      "payments": -2924.03,
+      "pastDue": 0.0,
+      "adjustments": 0.0,
+      "currentCharges": 3778.43,
+      "amountDue": 3778.43,
+      "remitToName": "FARMERS TELECOMMUNICATIONS CORPORATION",
+      "remitToAddress1": "P.O. BOX 71287",
+      "remitToAddress2": null,
+      "remitToCity": "CHARLOTTE",
+      "remitToState": "NC",
+      "remitToZip": "28272-1287",
+      "billToName": "BOAZ CITY OF",
+      "billToAddress": "PO BOX 537",
+      "billToAddress2": null,
+      "billToCity": "BOAZ",
+      "billToState": "AL",
+      "billToZip": "35957-0537"
+    },
+    "InvoiceData": {
+      "Summary by Service Type": [
+        {
+          "description": "FTC Voice",
+          "service_id": "2565939527",
+          "amount": 803.00,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 803.00,
+          "children": []
+        },
+        {
+          "description": "FTC Internet",
+          "service_id": "2565939527",
+          "amount": 973.95,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 973.95,
+          "children": []
+        },
+        {
+          "description": "FTC Managed Services",
+          "service_id": "2565939527",
+          "amount": 1741.00,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 1741.00,
+          "children": []
+        },
+        {
+          "description": "Taxes & Fees",
+          "service_id": "2565939527",
+          "amount": 260.48,
+          "from_date": "15-07-2025",
+          "to_date": "14-08-2025",
+          "quantity": 0,
+          "unit_price": null,
+          "charge": 260.48,
+          "children": []
+        }
+      ]
+    }
+  }
+  
